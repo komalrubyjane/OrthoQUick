@@ -1,226 +1,215 @@
-# 🦴 Bone Fracture Detection and Analysis
 
-A **Flask-based web application** for analyzing X-ray images to detect bone fractures, classify bone categories, and assess fracture severity and healing progress using **machine learning (Random Forest)** and **image processing (OpenCV)**.
+
+---
+
+```markdown
+# Bone Fracture Detection and Analysis
+
+A Flask-based web application for analyzing X-ray images to detect bone fractures, classify bone categories, and assess fracture severity and healing progress. It leverages machine learning (Random Forest) and image processing (OpenCV) to generate detailed reports and visual annotations.
 
 ---
 
 ## 🚀 Features
 
-- **Single X-ray Analysis**: Upload an X-ray image to detect fractures, classify the bone (e.g., Wrist, Elbow), identify fractured bones, and assess severity.
-- **Difference Analysis**: Compare two X-rays (before and after) to evaluate healing progress.
-- **History Tracking**: View and export past analysis results as CSV.
-- **Feedback System**: Submit feedback on analysis results for improvement.
-- **Model Retraining**: Retrain models using a dataset of annotated X-rays.
-- **Image Enhancement**: Remove text, enhance clarity, and generate heatmaps.
-- **Responsive UI**: Intuitive interface for uploading, viewing results, and accessing history.
+- **Single X-ray Analysis**: Upload an X-ray to detect fractures, identify bone category (e.g., Wrist, Elbow), fractured bone, and severity.
+- **Difference Analysis**: Compare two X-rays (before and after) to assess healing progress.
+- **History Tracking**: Stores analysis results and allows CSV export.
+- **Feedback System**: Users can submit feedback to improve the system.
+- **Model Retraining**: Retrain ML models using annotated datasets.
+- **Image Enhancement**: Clean text, enhance clarity, and generate heatmaps.
+- **Responsive UI**: Simple web interface for interaction.
 
 ---
 
-## 🛠 Technologies
+## 🧠 Technologies Used
 
-**Backend**: Flask (Python), Flask-Compress  
-**Machine Learning**: Scikit-learn (`RandomForestClassifier`, `RandomForestRegressor`)  
-**Image Processing**: OpenCV, Pillow  
-**Data Handling**: Pandas, NumPy  
-**Frontend**: HTML, JavaScript, CSS (Bootstrap assumed)  
-**Logging**: Python `logging` module  
-**File Management**: JSON for local storage, CSV for data exports  
+- **Backend**: Flask (Python), Flask-Compress
+- **Machine Learning**: Scikit-learn (RandomForestClassifier, RandomForestRegressor)
+- **Image Processing**: OpenCV, Pillow
+- **Data Handling**: Pandas, NumPy
+- **Frontend**: HTML, JavaScript, CSS (Bootstrap for styling)
+- **Logging**: Python's `logging` module
+- **Storage**: JSON for history/feedback, CSV for annotations/exports
 
 ---
 
-## 📋 Prerequisites
+## 🛠️ Prerequisites
 
 - Python 3.8+
-- `pip` (Python package manager)
-- Dataset of X-ray images (e.g., Simple and Comminuted fractures)
-- Optional: Pre-trained models (`model.pkl`, `fracture_model.pkl`)
+- pip (Python package manager)
+- X-ray image dataset:
+  - Folder structure: `Simple Bone Fracture/` and `Comminuted Bone Fracture/`
+- Optional:
+  - Pre-trained models: `model.pkl`, `fracture_model.pkl`
 
 ---
 
-## ⚙️ Installation
+## 📦 Installation
 
-### 1. Clone the Repository
 ```bash
 git clone https://github.com/your-username/bone-fracture-detection.git
 cd bone-fracture-detection
-2. Set Up a Virtual Environment (Recommended)
-bash
-Copy
-Edit
+```
+
+### Set up virtual environment (optional but recommended):
+
+```bash
 python -m venv venv
 source venv/bin/activate  # On Windows: venv\Scripts\activate
-3. Install Dependencies
-bash
-Copy
-Edit
+```
+
+### Install dependencies:
+
+```bash
 pip install -r requirements.txt
-If requirements.txt is not available:
+```
 
-bash
-Copy
-Edit
+If `requirements.txt` is not available, install manually:
+
+```bash
 pip install flask flask-compress opencv-python numpy scikit-learn pillow pandas
-4. Prepare Dataset
-Place your X-ray images in the dataset folder (default:
-C:\Users\Dell\Downloads\Bone -Fracture\Bone Fracture\Orginal)
-
-Ensure it contains:
-
-Simple Bone Fracture/
-
-Comminuted Bone Fracture/
-
-Optional: Add annotations.csv with columns: image_id, category, bone, fracture_type, fracture_x, fracture_y, severity
-
-5. Ensure Directory Structure
-Create if not auto-generated:
-
-bash
-Copy
-Edit
-static/uploads/       # Uploaded and annotated images
-static/outputs/       # Processed outputs
-model/                # Stores models
-🧠 Models
-model.pkl: Classifies bone category (e.g., Wrist, Elbow)
-
-fracture_model.pkl: Includes:
-
-fracture_clf_bone: Predicts fractured bone
-
-fracture_clf_type: Simple/Comminuted
-
-fracture_reg_x, fracture_reg_y: Predict fracture coordinates
-
-🚦 Usage
-Run the App
-bash
-Copy
-Edit
-python app.py
-Visit: http://localhost:5000
-
-📄 Available Pages
-/: Home (Project Overview)
-
-/analysis: Single X-ray fracture detection
-
-/difference: Compare two X-rays for healing progress
-
-/history: View/export analysis history
-
-/submit_feedback: Submit feedback
-
-/retrain_model: Retrain ML models
-
-🔌 API Endpoints
-POST /analysis: Upload X-ray, returns JSON with detection
-
-POST /difference: Upload two X-rays for healing comparison
-
-GET /get_history: Fetch history as JSON
-
-GET /export_history: Export history as CSV
-
-POST /submit_feedback: Submit feedback
-
-POST /retrain_model: Retrain ML models
-
-🗂 File Management
-Uploaded images → static/uploads/ (deleted post-processing)
-
-Annotated images → static/uploads/ (prefix: annotated_)
-
-History → history.json
-
-Feedback → feedback.json
-
-Improvement data → improvement.json
-
-🛠 Configuration
-
-Variable	Path/Value
-UPLOAD_FOLDER	static/uploads
-OUTPUT_FOLDER	static/outputs
-MODEL_FOLDER	model
-DATASET_FOLDER	C:/Users/Dell/Downloads/Bone -Fracture/Bone Fracture/Orginal
-ANNOTATION_FILE	annotations.csv in dataset folder
-CONFIDENCE_THRESHOLD	60%
-🧾 Dataset Format
-Folder Structure:
-Simple Bone Fracture/
-
-Comminuted Bone Fracture/
-
-Annotation File (annotations.csv):
-
-Column	Description
-image_id	Filename of the image
-category	Bone category (e.g., Wrist)
-bone	Specific bone (e.g., Distal Radius)
-fracture_type	Simple or Comminuted
-fracture_x/y	Coordinates of fracture
-severity	Score from 0 to 100
-🧪 Troubleshooting
-Model not loaded: Ensure .pkl files exist or a dataset is available.
-
-Invalid X-ray: Use grayscale PNG/JPEG with clear bone visibility.
-
-Failed to load image: Check path/format, and available disk space.
-
-Low confidence: Try clearer images or retrain the model.
-
-Permission errors: Ensure read/write access for /static/ and /model/ folders.
-
-📄 Logging
-Logs stored in app.log and shown in the console.
-
-Log levels: INFO, DEBUG, WARNING, ERROR
-
-🤝 Contributing
-Fork the repository
-
-Create a new branch
-
-bash
-Copy
-Edit
-git checkout -b feature/new-feature
-Commit your changes
-
-bash
-Copy
-Edit
-git commit -m "Add new feature"
-Push and open a Pull Request
-
-bash
-Copy
-Edit
-git push origin feature/new-feature
-📄 License
-This project is licensed under the MIT License.
-
-🙏 Acknowledgments
-OpenCV - Image processing
-
-Scikit-learn - Machine learning models
-
-Flask - Web framework
-
-Bootstrap - Frontend styling (assumed)
-
-yaml
-Copy
-Edit
+```
 
 ---
 
-Let me know if you'd like a downloadable `README.md` file or if you want a customized logo/banner for your GitHub page.
+## 📂 Dataset Setup
 
+- Place dataset at the path specified by `DATASET_FOLDER` in the code.
+  - Default: `C:\Users\Dell\Downloads\Bone -Fracture\Bone Fracture\Orginal`
+- Ensure the following folders exist:
+  - `static/uploads/` — uploaded/annotated images
+  - `static/outputs/` — processed output images
+  - `model/` — trained models
+- Optional file: `annotations.csv` with the following columns:
 
+```
+image_id, category, bone, fracture_type, fracture_x, fracture_y, severity
+```
 
+If not present, mock annotations will be generated.
 
+---
 
+## 🧪 Usage
 
+### Run the server:
 
+```bash
+python app.py
+```
+
+Access the app at: [http://localhost:5000](http://localhost:5000)
+
+### UI Pages:
+
+- `/` — Home & initialization logs
+- `/analysis` — Single X-ray analysis
+- `/difference` — Compare two X-rays
+- `/history` — Analysis history with CSV export
+- Feedback form and retrain model options included
+
+---
+
+## 📡 API Endpoints
+
+| Method | Endpoint              | Description                                       |
+|--------|-----------------------|---------------------------------------------------|
+| POST   | `/analysis`           | Upload X-ray and return analysis in JSON         |
+| POST   | `/difference`         | Upload two X-rays to assess healing              |
+| GET    | `/get_history`        | Fetch history as JSON                            |
+| GET    | `/export_history`     | Download history as CSV                          |
+| POST   | `/submit_feedback`    | Submit feedback (ID, rating, comments)           |
+| POST   | `/retrain_model`      | Retrain models using dataset                     |
+
+---
+
+## ⚙️ Configuration
+
+| Key               | Default Value                                                        |
+|------------------|----------------------------------------------------------------------|
+| `UPLOAD_FOLDER`   | `static/uploads/`                                                    |
+| `OUTPUT_FOLDER`   | `static/outputs/`                                                    |
+| `MODEL_FOLDER`    | `model/`                                                             |
+| `DATASET_FOLDER`  | `C:\Users\Dell\Downloads\Bone -Fracture\Bone Fracture\Orginal`       |
+| `ANNOTATION_FILE` | `annotations.csv` in dataset folder                                  |
+
+### Model Parameters:
+
+- Random Forest: 100 estimators, `random_state=42`
+- Confidence threshold: 60%
+
+### Image Requirements:
+
+- Format: PNG or JPEG
+- Size: Minimum 10×10 px
+- Type: Grayscale or low-color X-rays
+
+---
+
+## 🧠 Models
+
+- **Bone Classifier**: Predicts bone category (`model.pkl`)
+- **Fracture Models** (`fracture_model.pkl`):
+  - `fracture_clf_bone`: Classifies fractured bone
+  - `fracture_clf_type`: Simple or Comminuted
+  - `fracture_reg_x`, `fracture_reg_y`: Fracture coordinates
+
+---
+
+## 📝 Logging
+
+- Logs written to `app.log` and console
+- Levels: INFO, DEBUG, WARNING, ERROR
+- Logs include:
+  - Dependency versions
+  - Directory creation, file ops
+  - Model training/load status
+  - Image processing/debug info
+
+---
+
+## ❗ Troubleshooting
+
+- **Model not loaded**:
+  - Check for `model.pkl`, `fracture_model.pkl` or valid dataset.
+- **Invalid X-ray**:
+  - Ensure format is grayscale PNG/JPEG, clear structure, size > 10×10.
+- **Load errors**:
+  - Confirm correct paths and disk space.
+- **Low confidence (<60%)**:
+  - Use better image or retrain model.
+- **Permission issues**:
+  - Ensure read/write access to `static/`, `model/`.
+
+---
+
+## 🤝 Contributing
+
+1. Fork the repo
+2. Create a branch:  
+   `git checkout -b feature/your-feature`
+3. Commit changes:  
+   `git commit -m "Add feature"`
+4. Push branch:  
+   `git push origin feature/your-feature`
+5. Open a pull request
+
+---
+
+## 📄 License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file.
+
+---
+
+## 🙏 Acknowledgments
+
+- **OpenCV** – Image processing  
+- **Scikit-learn** – Machine learning  
+- **Flask** – Backend framework  
+- **Bootstrap** – UI styling  
+```
+
+---
+
+Let me know if you want this as a downloadable file or if you'd like help generating a `requirements.txt`.
