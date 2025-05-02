@@ -1,0 +1,50 @@
+2025-05-02 02:31:26,260 - INFO - __main__ - Preprocessing FracAtlas dataset...
+2025-05-02 02:31:26,271 - INFO - __main__ - Loaded dataset.csv with 4083 entries
+2025-05-02 02:31:26,273 - INFO - __main__ - Filtered 717 fractured images
+2025-05-02 02:31:26,278 - INFO - __main__ - After mapping, 448 images remain in FracAtlas
+2025-05-02 02:31:33,856 - INFO - __main__ - Preprocessing new Dataset...
+2025-05-02 02:31:34,888 - WARNING - __main__ - No fracture detected in datasets/Dataset\Chest\MCUCXR_0002_0.png, skipping for training.
+2025-05-02 02:31:36,870 - WARNING - __main__ - No fracture detected in datasets/Dataset\Chest\MCUCXR_0008_0.png, skipping for training.
+2025-05-02 02:31:37,220 - WARNING - __main__ - No fracture detected in datasets/Dataset\Chest\MCUCXR_0011_0.png, skipping for training.
+2025-05-02 02:31:37,636 - WARNING - __main__ - No fracture detected in datasets/Dataset\Chest\MCUCXR_0013_0.png, skipping for training.
+2025-05-02 02:31:41,709 - WARNING - __main__ - No fracture detected in datasets/Dataset\Chest\MCUCXR_0027_0.png, skipping for training.
+2025-05-02 02:31:44,996 - WARNING - __main__ - No fracture detected in datasets/Dataset\Chest\MCUCXR_0042_0.png, skipping for training.
+2025-05-02 02:31:46,192 - WARNING - __main__ - No fracture detected in datasets/Dataset\Chest\MCUCXR_0045_0.png, skipping for training.
+2025-05-02 02:31:47,229 - WARNING - __main__ - No fracture detected in datasets/Dataset\Chest\MCUCXR_0048_0.png, skipping for training.
+2025-05-02 02:31:50,898 - WARNING - __main__ - No fracture detected in datasets/Dataset\Chest\MCUCXR_0060_0.png, skipping for training.
+2025-05-02 02:31:52,304 - WARNING - __main__ - No fracture detected in datasets/Dataset\Chest\MCUCXR_0064_0.png, skipping for training.
+2025-05-02 02:31:54,112 - WARNING - __main__ - No fracture detected in datasets/Dataset\Chest\MCUCXR_0072_0.png, skipping for training.
+2025-05-02 02:31:54,137 - WARNING - __main__ - No fracture detected in datasets/Dataset\Elbow\1.png, skipping for training.
+2025-05-02 02:31:54,193 - WARNING - __main__ - No fracture detected in datasets/Dataset\Elbow\11.png, skipping for training.
+2025-05-02 02:31:54,274 - WARNING - __main__ - No fracture detected in datasets/Dataset\Elbow\14.png, skipping for training.
+2025-05-02 02:31:54,326 - WARNING - __main__ - No fracture detected in datasets/Dataset\Elbow\16.png, skipping for training.
+2025-05-02 02:31:54,341 - WARNING - __main__ - No fracture detected in datasets/Dataset\Elbow\17.png, skipping for training.
+2025-05-02 02:31:54,367 - WARNING - __main__ - No fracture detected in datasets/Dataset\Elbow\18.png, skipping for training.
+2025-05-02 02:31:54,395 - WARNING - __main__ - No fracture detected in datasets/Dataset\Elbow\19.png, skipping for training.
+2025-05-02 02:31:54,479 - WARNING - __main__ - No fracture detected in datasets/Dataset\Elbow\4.png, skipping for training.
+2025-05-02 02:31:54,508 - WARNING - __main__ - No fracture detected in datasets/Dataset\Elbow\6.png, skipping for training.
+2025-05-02 02:31:54,529 - WARNING - __main__ - No fracture detected in datasets/Dataset\Elbow\7.png, skipping for training.
+2025-05-02 02:31:54,554 - WARNING - __main__ - No fracture detected in datasets/Dataset\Elbow\8.png, skipping for training.
+2025-05-02 02:31:54,579 - WARNING - __main__ - No fracture detected in datasets/Dataset\Elbow\9.png, skipping for training.
+2025-05-02 02:31:54,604 - WARNING - __main__ - No fracture detected in datasets/Dataset\Finger\10.png, skipping for training.
+2025-05-02 02:31:54,642 - WARNING - __main__ - No fracture detected in datasets/Dataset\Finger\13.png, skipping for training.
+2025-05-02 02:31:54,662 - WARNING - __main__ - No fracture detected in datasets/Dataset\Finger\15.png, skipping for training.
+2025-05-02 02:31:54,730 - WARNING - __main__ - No fracture detected in datasets/Dataset\Finger\2.png, skipping for training.
+2025-05-02 02:31:54,772 - WARNING - __main__ - No fracture detected in datasets/Dataset\Finger\3.png, skipping for training.
+2025-05-02 02:31:54,793 - WARNING - __main__ - No fracture detected in datasets/Dataset\Finger\5.png, skipping for training.
+2025-05-02 02:31:54,866 - WARNING - __main__ - No fracture detected in datasets/Dataset\Hand\10.png, skipping for training.
+2025-05-02 02:31:54,877 - WARNING - __main__ - No fracture detected in datasets/Dataset\Hand\11.png, skipping for training.
+2025-05-02 02:31:54,890 - WARNING - __main__ - No fracture detected in datasets/Dataset\Hand\12.png, skipping for training.
+2025-05-02 02:31:54,929 - WARNING - __main__ - No fracture detected in datasets/Dataset\Hand\14.png, skipping for training.
+2025-05-02 02:31:54,963 - WARNING - __main__ - No fracture detected in datasets/Dataset\Hand\16.png, skipping for training.
+2025-05-02 02:31:55,030 - WARNING - __main__ - No fracture detected in datasets/Dataset\Hand\19.png, skipping for training.
+2025-05-02 02:31:55,044 - WARNING - __main__ - No fracture detected in datasets/Dataset\Hand\2.png, skipping for training.
+2025-05-02 02:31:55,099 - WARNING - __main__ - No fracture detected in datasets/Dataset\Hand\22.png, skipping for training.
+2025-05-02 02:31:55,204 - WARNING - __main__ - No fracture detected in datasets/Dataset\Hand\8.png, skipping for training.
+2025-05-02 02:31:55,213 - WARNING - __main__ - No fracture detected in datasets/Dataset\Hand\9.png, skipping for training.
+2025-05-02 02:31:55,261 - WARNING - __main__ - No fracture detected in datasets/Dataset\Head\13 no.jpg, skipping for training.
+2025-05-02 02:31:55,283 - WARNING - __main__ - No fracture detected in datasets/Dataset\Head\17 no.jpg, skipping for training.
+2025-05-02 02:31:55,325 - WARNING - __main__ - No fracture detected in datasets/Dataset\Head\20 no.jpg, skipping for training.
+2025-05-02 02:31:55,397 - WARNING - __main__ - No fracture detected in datasets/Dataset\Head\27 no.jpg, skipping for training.
+2025-05-02 02:31:55,555 - WARNING - __main__ - No fracture detected in datasets/Dataset\Head\42 no.jpg, skipping for training.
+2025-05-02 02:31:55,602 - WARNING - __main__ - No fracture detected in datasets/Dataset\Head\47 no.jpg, skipping for training.

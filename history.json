@@ -1,0 +1,1953 @@
+[
+  {
+    "id": "8611d5ee-0cee-437d-9fe7-a20653f33c43",
+    "timestamp": "2025-04-25 22:22:34",
+    "category": "Elbow",
+    "fractured_bone": "None",
+    "fracture_detected": false,
+    "severity": 0,
+    "severity_grade": "N/A",
+    "bone_health": 64.86562500000001,
+    "confidence": 60.5,
+    "image_path": "/static/uploads/16.png",
+    "annotated_image_path": "/static/uploads/annotated_16.png"
+  },
+  {
+    "id": "763cece1-3d91-480e-b4e9-e40aa613c562",
+    "timestamp": "2025-04-25 22:25:36",
+    "category": "Chest",
+    "fractured_bone": "None",
+    "fracture_detected": false,
+    "severity": 0,
+    "severity_grade": "N/A",
+    "bone_health": 100,
+    "confidence": 61.5,
+    "image_path": "/static/uploads/R.jpeg",
+    "annotated_image_path": "/static/uploads/annotated_R.jpeg"
+  },
+  {
+    "id": "b6ee9ec2-7c2c-4862-945d-e39a9561c426",
+    "timestamp": "2025-04-26 00:33:50",
+    "category": "Chest",
+    "fractured_bone": "None",
+    "fracture_detected": false,
+    "severity": 0,
+    "severity_grade": "N/A",
+    "bone_health": 100,
+    "confidence": 59.0,
+    "low_confidence_warning": true,
+    "image_path": "/static/uploads/OIP_1.jpeg",
+    "annotated_image_path": "/static/uploads/annotated_OIP_1.jpeg"
+  },
+  {
+    "id": "2ba6d8a6-7c97-4860-a0ca-56cad19af2fe",
+    "timestamp": "2025-04-26 00:39:20",
+    "category": "Chest",
+    "fractured_bone": "None",
+    "fracture_detected": false,
+    "severity": 0,
+    "severity_grade": "N/A",
+    "bone_health": 100,
+    "confidence": 59.0,
+    "low_confidence_warning": true,
+    "image_path": "/static/uploads/OIP_1.jpeg",
+    "annotated_image_path": "/static/uploads/annotated_OIP_1.jpeg"
+  },
+  {
+    "id": "25493197-81e0-4c22-a2c7-ff78e3acdfca",
+    "timestamp": "2025-04-26 00:44:28",
+    "category": "Chest",
+    "fractured_bone": "None",
+    "fracture_detected": false,
+    "severity": 0,
+    "severity_grade": "N/A",
+    "bone_health": 100,
+    "confidence": 59.0,
+    "low_confidence_warning": true,
+    "image_path": "/static/uploads/OIP_1.jpeg",
+    "annotated_image_path": "/static/uploads/annotated_OIP_1.jpeg"
+  },
+  {
+    "id": "5d577909-63e1-47e1-9fc8-fde4131a8a6d",
+    "timestamp": "2025-04-26 00:45:22",
+    "category": "Head",
+    "fractured_bone": "None",
+    "fracture_detected": false,
+    "severity": 0,
+    "severity_grade": "N/A",
+    "bone_health": 100,
+    "confidence": 23.5,
+    "low_confidence_warning": true,
+    "image_path": "/static/uploads/finger.jpg",
+    "annotated_image_path": "/static/uploads/annotated_finger.jpg"
+  },
+  {
+    "id": "8a9ac238-7555-45cf-be38-b8f9c4e23039",
+    "timestamp": "2025-04-26 00:45:48",
+    "category": "Chest",
+    "fractured_bone": "None",
+    "fracture_detected": false,
+    "severity": 0,
+    "severity_grade": "N/A",
+    "bone_health": 100,
+    "confidence": 28.000000000000004,
+    "low_confidence_warning": true,
+    "image_path": "/static/uploads/OIP.jpeg",
+    "annotated_image_path": "/static/uploads/annotated_OIP.jpeg"
+  },
+  {
+    "id": "afb2fd7d-c24b-420f-b038-7c8bdbb8bca8",
+    "timestamp": "2025-04-26 02:10:04",
+    "category": "Chest",
+    "fractured_bone": "None",
+    "fracture_detected": false,
+    "severity": 0,
+    "severity_grade": "N/A",
+    "bone_health": 100,
+    "confidence": 59.0,
+    "low_confidence_warning": true,
+    "image_path": "/static/uploads/OIP_1.jpeg",
+    "annotated_image_path": "/static/uploads/annotated_OIP_1.jpeg",
+    "image_description": "This X-ray image is classified as a Chest radiograph. No fracture is detected. The bone health score is 100.0 out of 100."
+  },
+  {
+    "id": "a3bb2b8e-7802-4faa-b07f-355f14051f7c",
+    "timestamp": "2025-04-26 02:10:17",
+    "category": "Chest",
+    "fractured_bone": "None",
+    "fracture_detected": false,
+    "severity": 0,
+    "severity_grade": "N/A",
+    "bone_health": 100,
+    "confidence": 59.0,
+    "low_confidence_warning": true,
+    "image_path": "/static/uploads/OIP_1.jpeg",
+    "annotated_image_path": "/static/uploads/annotated_OIP_1.jpeg",
+    "image_description": "This X-ray image is classified as a Chest radiograph. No fracture is detected. The bone health score is 100.0 out of 100."
+  },
+  {
+    "id": "09d3ec42-8179-4678-9bad-8d308717d8b9",
+    "timestamp": "2025-04-26 02:10:29",
+    "category": "Chest",
+    "fractured_bone": "None",
+    "fracture_detected": false,
+    "severity": 0,
+    "severity_grade": "N/A",
+    "bone_health": 100,
+    "confidence": 61.5,
+    "low_confidence_warning": false,
+    "image_path": "/static/uploads/R.jpeg",
+    "annotated_image_path": "/static/uploads/annotated_R.jpeg",
+    "image_description": "This X-ray image is classified as a Chest radiograph. No fracture is detected. The bone health score is 100.0 out of 100."
+  },
+  {
+    "id": "edb0f9ab-4521-422e-8a67-099e86f434d1",
+    "timestamp": "2025-04-26 02:10:37",
+    "category": "Chest",
+    "fractured_bone": "None",
+    "fracture_detected": false,
+    "severity": 0,
+    "severity_grade": "N/A",
+    "bone_health": 100,
+    "confidence": 61.5,
+    "low_confidence_warning": false,
+    "image_path": "/static/uploads/R.jpeg",
+    "annotated_image_path": "/static/uploads/annotated_R.jpeg",
+    "image_description": "This X-ray image is classified as a Chest radiograph. No fracture is detected. The bone health score is 100.0 out of 100."
+  },
+  {
+    "id": "f2c37b99-a166-4c00-815b-b4257c6c5e74",
+    "timestamp": "2025-04-26 02:10:41",
+    "category": "Chest",
+    "fractured_bone": "None",
+    "fracture_detected": false,
+    "severity": 0,
+    "severity_grade": "N/A",
+    "bone_health": 100,
+    "confidence": 61.5,
+    "low_confidence_warning": false,
+    "image_path": "/static/uploads/R.jpeg",
+    "annotated_image_path": "/static/uploads/annotated_R.jpeg",
+    "image_description": "This X-ray image is classified as a Chest radiograph. No fracture is detected. The bone health score is 100.0 out of 100."
+  },
+  {
+    "id": "ef147411-856a-40dc-bd09-484206ecd049",
+    "timestamp": "2025-04-26 02:11:05",
+    "category": "Chest",
+    "fractured_bone": "None",
+    "fracture_detected": false,
+    "severity": 0,
+    "severity_grade": "N/A",
+    "bone_health": 100,
+    "confidence": 28.000000000000004,
+    "low_confidence_warning": true,
+    "image_path": "/static/uploads/OIP.jpeg",
+    "annotated_image_path": "/static/uploads/annotated_OIP.jpeg",
+    "image_description": "This X-ray image is classified as a Chest radiograph. No fracture is detected. The bone health score is 100.0 out of 100."
+  },
+  {
+    "id": "7cb5b8df-740c-440b-b6d0-ea90d935a334",
+    "timestamp": "2025-04-26 02:16:23",
+    "category": "Shoulder",
+    "fractured_bone": "None",
+    "fracture_detected": false,
+    "severity": 0,
+    "severity_grade": "N/A",
+    "bone_health": 100,
+    "confidence": 44.5,
+    "low_confidence_warning": true,
+    "image_path": "/static/uploads/ccf29d698cb766b5f3a7899fdb32eb_big_gallery.jpg",
+    "annotated_image_path": "/static/uploads/annotated_ccf29d698cb766b5f3a7899fdb32eb_big_gallery.jpg",
+    "image_description": "This X-ray image is classified as a Shoulder radiograph. No fracture is detected. The bone health score is 100.0 out of 100."
+  },
+  {
+    "id": "de192b3b-71a2-4177-b91b-6fa3a1678d42",
+    "timestamp": "2025-04-26 02:33:13",
+    "category": "Shoulder",
+    "fractured_bone": "None",
+    "fracture_detected": false,
+    "severity": 0,
+    "severity_grade": "N/A",
+    "bone_health": 100,
+    "confidence": 44.5,
+    "low_confidence_warning": true,
+    "image_path": "/static/uploads/ccf29d698cb766b5f3a7899fdb32eb_big_gallery.jpg",
+    "annotated_image_path": "/static/uploads/annotated_ccf29d698cb766b5f3a7899fdb32eb_big_gallery.jpg",
+    "image_description": "This X-ray image is classified as a Shoulder radiograph. No fracture is detected. The bone health score is 100.0 out of 100."
+  },
+  {
+    "id": "7851884b-e06b-4a52-aca9-2aea2a62d91e",
+    "timestamp": "2025-04-26 02:34:06",
+    "category": "Chest",
+    "fractured_bone": "None",
+    "fracture_detected": false,
+    "severity": 0,
+    "severity_grade": "N/A",
+    "bone_health": 100,
+    "confidence": 59.0,
+    "low_confidence_warning": true,
+    "image_path": "/static/uploads/OIP_1.jpeg",
+    "annotated_image_path": "/static/uploads/annotated_OIP_1.jpeg",
+    "image_description": "This X-ray image is classified as a Chest radiograph. No fracture is detected. The bone health score is 100.0 out of 100."
+  },
+  {
+    "id": "4e23d278-c379-4b39-b350-0a566bb24215",
+    "timestamp": "2025-04-26 02:42:49",
+    "category": "Elbow",
+    "fractured_bone": "None",
+    "fracture_detected": false,
+    "severity": 0,
+    "severity_grade": "N/A",
+    "bone_health": 100,
+    "confidence": 20.0,
+    "low_confidence_warning": true,
+    "image_path": "/static/uploads/1000_F_502100568_0qSOEKUCwDstkJ5CBBVAltCKYPxoVXe5.jpg",
+    "annotated_image_path": "/static/uploads/annotated_1000_F_502100568_0qSOEKUCwDstkJ5CBBVAltCKYPxoVXe5.jpg",
+    "image_description": "This X-ray image is classified as a Elbow radiograph. No fracture is detected. The bone health score is 100.0 out of 100."
+  },
+  {
+    "id": "94178f54-6649-445d-a6db-ef13e5a31626",
+    "timestamp": "2025-04-26 02:56:01",
+    "category": "Wrist",
+    "fractured_bone": "None",
+    "fracture_detected": false,
+    "severity": 0,
+    "severity_grade": "N/A",
+    "bone_health": 100,
+    "confidence": 20.0,
+    "low_confidence_warning": true,
+    "image_path": "/static/uploads/1000_F_502100568_0qSOEKUCwDstkJ5CBBVAltCKYPxoVXe5.jpg",
+    "annotated_image_path": "/static/uploads/annotated_1000_F_502100568_0qSOEKUCwDstkJ5CBBVAltCKYPxoVXe5.jpg",
+    "image_description": "This X-ray image is classified as a Wrist radiograph. No fracture is detected. The bone health score is 100.0 out of 100."
+  },
+  {
+    "id": "968a6f48-a8c6-466d-92cb-8ade652e4fc1",
+    "timestamp": "2025-04-26 02:56:26",
+    "category": "Shoulder",
+    "fractured_bone": "None",
+    "fracture_detected": false,
+    "severity": 0,
+    "severity_grade": "N/A",
+    "bone_health": 100,
+    "confidence": 34.5,
+    "low_confidence_warning": true,
+    "image_path": "/static/uploads/The_shoulder_theory_and_practice_450_x_350_-_podia_webpage.png",
+    "annotated_image_path": "/static/uploads/annotated_The_shoulder_theory_and_practice_450_x_350_-_podia_webpage.png",
+    "image_description": "This X-ray image is classified as a Shoulder radiograph. No fracture is detected. The bone health score is 100.0 out of 100."
+  },
+  {
+    "id": "0256764c-7a4e-4c75-883b-3279ba241bdb",
+    "timestamp": "2025-04-26 02:56:51",
+    "category": "Head",
+    "fractured_bone": "None",
+    "fracture_detected": false,
+    "severity": 0,
+    "severity_grade": "N/A",
+    "bone_health": 100,
+    "confidence": 44.0,
+    "low_confidence_warning": true,
+    "image_path": "/static/uploads/pediatric_elbow_lateral_lateral_condyle_fracture_xray.jpg",
+    "annotated_image_path": "/static/uploads/annotated_pediatric_elbow_lateral_lateral_condyle_fracture_xray.jpg",
+    "image_description": "This X-ray image is classified as a Head radiograph. No fracture is detected. The bone health score is 100.0 out of 100."
+  },
+  {
+    "id": "9f3a76a5-ec53-4184-92c5-857794df3a66",
+    "timestamp": "2025-04-26 02:57:02",
+    "category": "Shoulder",
+    "fractured_bone": "None",
+    "fracture_detected": false,
+    "severity": 0,
+    "severity_grade": "N/A",
+    "bone_health": 100,
+    "confidence": 44.5,
+    "low_confidence_warning": true,
+    "image_path": "/static/uploads/ccf29d698cb766b5f3a7899fdb32eb_big_gallery.jpg",
+    "annotated_image_path": "/static/uploads/annotated_ccf29d698cb766b5f3a7899fdb32eb_big_gallery.jpg",
+    "image_description": "This X-ray image is classified as a Shoulder radiograph. No fracture is detected. The bone health score is 100.0 out of 100."
+  },
+  {
+    "id": "61ba294f-065a-480c-b30a-3b6f13d35c71",
+    "timestamp": "2025-04-26 02:58:31",
+    "category": "Shoulder",
+    "fractured_bone": "None",
+    "fracture_detected": false,
+    "severity": 0,
+    "severity_grade": "N/A",
+    "bone_health": 100,
+    "confidence": 25.0,
+    "low_confidence_warning": true,
+    "image_path": "/static/uploads/4d83d807fe7af170aa25b936567aa7e4.jpg",
+    "annotated_image_path": "/static/uploads/annotated_4d83d807fe7af170aa25b936567aa7e4.jpg",
+    "image_description": "This X-ray image is classified as a Shoulder radiograph. No fracture is detected. The bone health score is 100.0 out of 100."
+  },
+  {
+    "id": "1b3f7ba8-4dea-4231-a4e3-1f7064a35624",
+    "timestamp": "2025-04-26 03:04:25",
+    "category": "Shoulder",
+    "fractured_bone": "None",
+    "fracture_detected": false,
+    "severity": 0,
+    "severity_grade": "N/A",
+    "bone_health": 100,
+    "confidence": 25.0,
+    "low_confidence_warning": true,
+    "image_path": "/static/uploads/4d83d807fe7af170aa25b936567aa7e4.jpg",
+    "annotated_image_path": "/static/uploads/annotated_4d83d807fe7af170aa25b936567aa7e4.jpg",
+    "image_description": "This X-ray image is classified as a Shoulder radiograph. No fracture is detected. The bone health score is 100.0 out of 100."
+  },
+  {
+    "id": "3fac597c-5e9e-4dbf-aaa1-4202a309fda2",
+    "timestamp": "2025-04-26 03:06:25",
+    "category": "Chest",
+    "fractured_bone": "None",
+    "fracture_detected": false,
+    "severity": 0,
+    "severity_grade": "N/A",
+    "bone_health": 100,
+    "confidence": 92.5,
+    "low_confidence_warning": false,
+    "image_path": "/static/uploads/Fracture-of-the-Ribs.jpg",
+    "annotated_image_path": "/static/uploads/annotated_Fracture-of-the-Ribs.jpg",
+    "image_description": "This X-ray image is classified as a Chest radiograph. No fracture is detected. The bone health score is 100.0 out of 100."
+  },
+  {
+    "id": "86dca21c-e73e-45a8-94e7-165f0cc1ec2f",
+    "timestamp": "2025-04-26 03:11:00",
+    "category": "Chest",
+    "fractured_bone": "None",
+    "fracture_detected": false,
+    "severity": 0,
+    "severity_grade": "N/A",
+    "bone_health": 100,
+    "confidence": 71.0,
+    "low_confidence_warning": false,
+    "image_path": "/static/uploads/rib-fracture-right.jpg",
+    "annotated_image_path": "/static/uploads/annotated_rib-fracture-right.jpg",
+    "image_description": "This X-ray image is classified as a Chest radiograph. No fracture is detected. The bone health score is 100.0 out of 100."
+  },
+  {
+    "id": "ddb4f8b1-70e0-4add-a9ac-10a286853da5",
+    "timestamp": "2025-04-26 03:28:04",
+    "category": "Shoulder",
+    "fractured_bone": "None",
+    "fracture_detected": false,
+    "severity": 0,
+    "severity_grade": "N/A",
+    "bone_health": 100,
+    "confidence": 39.0,
+    "low_confidence_warning": true,
+    "image_path": "/static/uploads/charminar.jpg",
+    "annotated_image_path": "/static/uploads/annotated_charminar.jpg",
+    "image_description": "This X-ray image is classified as a Shoulder radiograph. No fracture is detected. The bone health score is 100.0 out of 100."
+  },
+  {
+    "id": "3fab9c46-ad2d-471c-8691-b271385923ee",
+    "timestamp": "2025-04-26 03:55:59",
+    "category": "Chest",
+    "fractured_bone": "None",
+    "fracture_detected": false,
+    "severity": 0.0,
+    "severity_grade": "N/A",
+    "bone_health": 100.0,
+    "confidence": 71.0,
+    "low_confidence_warning": false,
+    "image_path": "/static/uploads/1745619956_rib-fracture-right.jpg",
+    "annotated_image_path": "/static/uploads/annotated_1745619956_rib-fracture-right.jpg",
+    "image_description": "This X-ray image is classified as a Chest radiograph. No fracture is detected. The bone health score is 100.0 out of 100."
+  },
+  {
+    "id": "69b2f149-3c5c-4c5c-a828-69afc3e5cda2",
+    "timestamp": "2025-04-26 03:56:02",
+    "category": "Chest",
+    "fractured_bone": "None",
+    "fracture_detected": false,
+    "severity": 0.0,
+    "severity_grade": "N/A",
+    "bone_health": 100.0,
+    "confidence": 71.0,
+    "low_confidence_warning": false,
+    "image_path": "/static/uploads/1745619959_rib-fracture-right.jpg",
+    "annotated_image_path": "/static/uploads/annotated_1745619959_rib-fracture-right.jpg",
+    "image_description": "This X-ray image is classified as a Chest radiograph. No fracture is detected. The bone health score is 100.0 out of 100."
+  },
+  {
+    "id": "922e80dd-27e0-4fc6-bba3-b947a54585b8",
+    "timestamp": "2025-04-26 03:59:25",
+    "category": "Shoulder",
+    "fractured_bone": "None",
+    "fracture_detected": false,
+    "severity": 0.0,
+    "severity_grade": "N/A",
+    "bone_health": 100.0,
+    "confidence": 44.5,
+    "low_confidence_warning": true,
+    "image_path": "/static/uploads/1745620165_ccf29d698cb766b5f3a7899fdb32eb_big_gallery.jpg",
+    "annotated_image_path": "/static/uploads/annotated_1745620165_ccf29d698cb766b5f3a7899fdb32eb_big_gallery.jpg",
+    "image_description": "This X-ray image is classified as a Shoulder radiograph. No fracture is detected. The bone health score is 100.0 out of 100."
+  },
+  {
+    "id": "caef8d3f-45a1-4b62-886c-5e932351e172",
+    "timestamp": "2025-04-26 04:00:53",
+    "category": "Chest",
+    "fractured_bone": "None",
+    "fracture_detected": false,
+    "severity": 0.0,
+    "severity_grade": "N/A",
+    "bone_health": 100.0,
+    "confidence": 71.0,
+    "low_confidence_warning": false,
+    "image_path": "/static/uploads/1745620252_rib-fracture-right.jpg",
+    "annotated_image_path": "/static/uploads/annotated_1745620252_rib-fracture-right.jpg",
+    "image_description": "This X-ray image is classified as a Chest radiograph. No fracture is detected. The bone health score is 100.0 out of 100."
+  },
+  {
+    "id": "2c1dff9d-55f1-4fc7-849f-9fe4fbc2c395",
+    "timestamp": "2025-04-26 04:01:25",
+    "category": "Shoulder",
+    "fractured_bone": "None",
+    "fracture_detected": false,
+    "severity": 0.0,
+    "severity_grade": "N/A",
+    "bone_health": 100.0,
+    "confidence": 44.5,
+    "low_confidence_warning": true,
+    "image_path": "/static/uploads/1745620285_ccf29d698cb766b5f3a7899fdb32eb_big_gallery.jpg",
+    "annotated_image_path": "/static/uploads/annotated_1745620285_ccf29d698cb766b5f3a7899fdb32eb_big_gallery.jpg",
+    "image_description": "This X-ray image is classified as a Shoulder radiograph. No fracture is detected. The bone health score is 100.0 out of 100."
+  },
+  {
+    "id": "327e44ff-ec7f-486a-a0b0-29674ecd1876",
+    "timestamp": "2025-04-26 04:06:24",
+    "category": "Chest",
+    "fractured_bone": "None",
+    "fracture_detected": false,
+    "severity": 0.0,
+    "severity_grade": "N/A",
+    "bone_health": 100.0,
+    "confidence": 71.0,
+    "low_confidence_warning": false,
+    "image_path": "/static/uploads/1745620582_rib-fracture-right.jpg",
+    "annotated_image_path": "/static/uploads/annotated_1745620582_rib-fracture-right.jpg",
+    "image_description": "This X-ray image is classified as a Chest radiograph. No fracture is detected. The bone health score is 100.0 out of 100."
+  },
+  {
+    "id": "7fc8c7e7-95ca-43e0-9ffd-73921d8bff4b",
+    "timestamp": "2025-04-26 04:41:50",
+    "category": "Shoulder",
+    "bones_present": [
+      "Clavicle",
+      "Scapula"
+    ],
+    "fractured_bone": "None",
+    "fracture_detected": false,
+    "fracture_type": "None",
+    "fracture_coordinates": [
+      0,
+      0
+    ],
+    "severity": 0.0,
+    "severity_grade": "N/A",
+    "bone_health": 100.0,
+    "confidence": 44.5,
+    "low_confidence_warning": true,
+    "image_path": "/static/uploads/1745622709_ccf29d698cb766b5f3a7899fdb32eb_big_gallery.jpg",
+    "annotated_image_path": "/static/uploads/annotated_1745622709_ccf29d698cb766b5f3a7899fdb32eb_big_gallery.jpg",
+    "image_description": "This X-ray is a Shoulder radiograph. Bones present: Clavicle, Scapula. No fracture detected. Bone health score: 100.0/100."
+  },
+  {
+    "id": "8ecad629-44f2-4b53-8947-da9a60a9c71a",
+    "timestamp": "2025-04-26 05:44:12",
+    "category": "Chest",
+    "bones_present": [
+      "Ribs",
+      "Sternum"
+    ],
+    "fractured_bone": "None",
+    "fracture_detected": false,
+    "fracture_type": "None",
+    "fracture_coordinates": [
+      0,
+      0
+    ],
+    "severity": 0.0,
+    "severity_grade": "N/A",
+    "bone_health": 100.0,
+    "confidence": 71.0,
+    "low_confidence_warning": false,
+    "image_path": "/static/uploads/1745626451_rib-fracture-right.jpg",
+    "annotated_image_path": "/static/uploads/annotated_1745626451_rib-fracture-right.jpg",
+    "image_description": "This X-ray is a Chest radiograph. Bones present: Ribs, Sternum. No fracture detected. Bone health score: 100.0/100."
+  },
+  {
+    "id": "56c1c26e-3c75-4035-a801-74f182f31156",
+    "timestamp": "2025-04-26 07:49:31",
+    "category": "Chest",
+    "bones_present": [
+      "Ribs",
+      "Sternum"
+    ],
+    "fractured_bone": "Distal Radius",
+    "fracture_detected": true,
+    "fracture_type": "Comminuted",
+    "fracture_coordinates": [
+      611,
+      393
+    ],
+    "severity": 80.0,
+    "severity_grade": "Severe",
+    "bone_health": 20.0,
+    "confidence": 71.0,
+    "low_confidence_warning": false,
+    "image_path": "/static/uploads/1745633970_rib-fracture-right.jpg",
+    "annotated_image_path": "/static/uploads/annotated_1745633970_rib-fracture-right.jpg",
+    "image_description": "This X-ray is a Chest radiograph. Bones present: Ribs, Sternum. A Comminuted fracture is detected in the Distal Radius at coordinates (611, 393), with severe severity. Bone health score: 20.0/100."
+  },
+  {
+    "id": "a41c5135-aab9-4df9-b0d3-67877c4d1ac9",
+    "timestamp": "2025-04-26 07:50:21",
+    "category": "Shoulder",
+    "bones_present": [
+      "Clavicle",
+      "Scapula"
+    ],
+    "fractured_bone": "Distal Radius",
+    "fracture_detected": true,
+    "fracture_type": "Comminuted",
+    "fracture_coordinates": [
+      838,
+      494
+    ],
+    "severity": 80.0,
+    "severity_grade": "Severe",
+    "bone_health": 20.0,
+    "confidence": 41.5,
+    "low_confidence_warning": true,
+    "image_path": "/static/uploads/1745634020_199223-medicine-separated_shoulder-collar_bone-748x594.jpg",
+    "annotated_image_path": "/static/uploads/annotated_1745634020_199223-medicine-separated_shoulder-collar_bone-748x594.jpg",
+    "image_description": "This X-ray is a Shoulder radiograph. Bones present: Clavicle, Scapula. A Comminuted fracture is detected in the Distal Radius at coordinates (838, 494), with severe severity. Bone health score: 20.0/100."
+  },
+  {
+    "id": "ca580f45-e861-43ef-b2ff-275147bcfd8f",
+    "timestamp": "2025-04-26 07:51:05",
+    "category": "Shoulder",
+    "bones_present": [
+      "Clavicle",
+      "Scapula"
+    ],
+    "fractured_bone": "Distal Radius",
+    "fracture_detected": true,
+    "fracture_type": "Comminuted",
+    "fracture_coordinates": [
+      774,
+      424
+    ],
+    "severity": 80.0,
+    "severity_grade": "Severe",
+    "bone_health": 20.0,
+    "confidence": 44.5,
+    "low_confidence_warning": true,
+    "image_path": "/static/uploads/1745634064_ccf29d698cb766b5f3a7899fdb32eb_big_gallery.jpg",
+    "annotated_image_path": "/static/uploads/annotated_1745634064_ccf29d698cb766b5f3a7899fdb32eb_big_gallery.jpg",
+    "image_description": "This X-ray is a Shoulder radiograph. Bones present: Clavicle, Scapula. A Comminuted fracture is detected in the Distal Radius at coordinates (774, 424), with severe severity. Bone health score: 20.0/100."
+  },
+  {
+    "id": "129f4267-e185-4ce0-ab2d-db2ba3ec9a9d",
+    "timestamp": "2025-04-26 07:56:05",
+    "category": "Chest",
+    "bones_present": [
+      "Ribs",
+      "Sternum"
+    ],
+    "fractured_bone": "Distal Radius",
+    "fracture_detected": true,
+    "fracture_type": "Comminuted",
+    "fracture_coordinates": [
+      795,
+      622
+    ],
+    "severity": 80.0,
+    "severity_grade": "Severe",
+    "bone_health": 20.0,
+    "confidence": 61.5,
+    "low_confidence_warning": false,
+    "image_path": "/static/uploads/1745634364_R.jpeg",
+    "annotated_image_path": "/static/uploads/annotated_1745634364_R.jpeg",
+    "image_description": "This X-ray is a Chest radiograph. Bones present: Ribs, Sternum. A Comminuted fracture is detected in the Distal Radius at coordinates (795, 622), with severe severity. Bone health score: 20.0/100."
+  },
+  {
+    "id": "d632f398-d648-42c5-8358-1a5ac85fd2b3",
+    "timestamp": "2025-04-26 07:56:59",
+    "category": "Chest",
+    "bones_present": [
+      "Ribs",
+      "Sternum"
+    ],
+    "fractured_bone": "Distal Radius",
+    "fracture_detected": true,
+    "fracture_type": "Simple",
+    "fracture_coordinates": [
+      688,
+      493
+    ],
+    "severity": 50.0,
+    "severity_grade": "Moderate",
+    "bone_health": 50.0,
+    "confidence": 59.0,
+    "low_confidence_warning": true,
+    "image_path": "/static/uploads/1745634419_OIP_1.jpeg",
+    "annotated_image_path": "/static/uploads/annotated_1745634419_OIP_1.jpeg",
+    "image_description": "This X-ray is a Chest radiograph. Bones present: Ribs, Sternum. A Simple fracture is detected in the Distal Radius at coordinates (688, 493), with moderate severity. Bone health score: 50.0/100."
+  },
+  {
+    "id": "5b8c64c1-8e11-42ef-8384-bb671ac41472",
+    "timestamp": "2025-04-26 09:33:33",
+    "category": "Chest",
+    "bones_present": [
+      "Ribs",
+      "Sternum"
+    ],
+    "fractured_bone": "Distal Radius",
+    "fracture_detected": true,
+    "fracture_type": "Comminuted",
+    "fracture_coordinates": [
+      611,
+      393
+    ],
+    "severity": 80.0,
+    "severity_grade": "Severe",
+    "bone_health": 20.0,
+    "confidence": 71.0,
+    "low_confidence_warning": false,
+    "image_path": "/static/uploads/1745640212_rib-fracture-right.jpg",
+    "annotated_image_path": "/static/uploads/annotated_1745640212_rib-fracture-right.jpg",
+    "image_description": "This X-ray is a Chest radiograph. Bones present: Ribs, Sternum. A Comminuted fracture is detected in the Distal Radius at coordinates (611, 393), with severe severity. Bone health score: 20.0/100."
+  },
+  {
+    "id": "cb6c2866-7dda-4501-88ad-f0c149704b6d",
+    "timestamp": "2025-04-26 10:02:07",
+    "category": "Chest",
+    "bones_present": [
+      "Ribs",
+      "Sternum"
+    ],
+    "fractured_bone": "Ribs",
+    "fracture_detected": true,
+    "fracture_type": "Comminuted",
+    "fracture_coordinates": [
+      795,
+      622
+    ],
+    "severity": 80.0,
+    "severity_grade": "Severe",
+    "bone_health": 20.0,
+    "confidence": 61.5,
+    "low_confidence_warning": false,
+    "image_path": "/static/uploads/1745641926_R.jpeg",
+    "annotated_image_path": "/static/uploads/annotated_1745641926_R.jpeg",
+    "image_description": "This X-ray is a Chest radiograph. Bones present: Ribs, Sternum. A Comminuted fracture is detected in the Ribs at coordinates (795, 622), with severe severity. Bone health score: 20.0/100."
+  },
+  {
+    "id": "84dccfe8-b44d-4302-a295-403530f6360d",
+    "timestamp": "2025-04-26 10:02:59",
+    "category": "Shoulder",
+    "bones_present": [
+      "Clavicle",
+      "Scapula"
+    ],
+    "fractured_bone": "Clavicle",
+    "fracture_detected": true,
+    "fracture_type": "Comminuted",
+    "fracture_coordinates": [
+      838,
+      494
+    ],
+    "severity": 80.0,
+    "severity_grade": "Severe",
+    "bone_health": 20.0,
+    "confidence": 41.5,
+    "low_confidence_warning": true,
+    "image_path": "/static/uploads/1745641978_199223-medicine-separated_shoulder-collar_bone-748x594.jpg",
+    "annotated_image_path": "/static/uploads/annotated_1745641978_199223-medicine-separated_shoulder-collar_bone-748x594.jpg",
+    "image_description": "This X-ray is a Shoulder radiograph. Bones present: Clavicle, Scapula. A Comminuted fracture is detected in the Clavicle at coordinates (838, 494), with severe severity. Bone health score: 20.0/100."
+  },
+  {
+    "id": "1caef4fc-6c3b-48db-80b6-b3d31da81593",
+    "timestamp": "2025-04-26 10:04:24",
+    "category": "Chest",
+    "bones_present": [
+      "Ribs",
+      "Sternum"
+    ],
+    "fractured_bone": "Ribs",
+    "fracture_detected": true,
+    "fracture_type": "Comminuted",
+    "fracture_coordinates": [
+      250,
+      497
+    ],
+    "severity": 80.0,
+    "severity_grade": "Severe",
+    "bone_health": 20.0,
+    "confidence": 99.5,
+    "low_confidence_warning": false,
+    "image_path": "/static/uploads/1745642060_MCUCXR_0071_0.png",
+    "annotated_image_path": "/static/uploads/annotated_1745642060_MCUCXR_0071_0.png",
+    "image_description": "This X-ray is a Chest radiograph. Bones present: Ribs, Sternum. A Comminuted fracture is detected in the Ribs at coordinates (250, 497), with severe severity. Bone health score: 20.0/100."
+  },
+  {
+    "id": "2d6d0621-c98f-4ba3-8a07-d3b7a2ca4f58",
+    "timestamp": "2025-04-26 10:27:33",
+    "category": "Chest",
+    "bones_present": [
+      "Ribs",
+      "Sternum"
+    ],
+    "fractured_bone": "Ribs",
+    "fracture_detected": true,
+    "fracture_type": "Comminuted",
+    "fracture_coordinates": [
+      611,
+      393
+    ],
+    "severity": 80.0,
+    "severity_grade": "Severe",
+    "bone_health": 20.0,
+    "confidence": 71.0,
+    "low_confidence_warning": false,
+    "image_path": "/static/uploads/1745643445_rib-fracture-right.jpg",
+    "annotated_image_path": "/static/uploads/annotated_1745643445_rib-fracture-right.jpg",
+    "image_description": "This X-ray is a Chest radiograph. Bones present: Ribs, Sternum. A Comminuted fracture is detected in the Ribs at coordinates (611, 393), with severe severity. Bone health score: 20.0/100."
+  },
+  {
+    "id": "dd1c46a6-2afa-429a-831f-329322aaf56a",
+    "timestamp": "2025-04-26 10:29:04",
+    "category": "Shoulder",
+    "bones_present": [
+      "Clavicle",
+      "Scapula"
+    ],
+    "initial_fractured_bone": "Clavicle",
+    "current_fractured_bone": "Clavicle",
+    "fracture_detected": true,
+    "initial_fracture_type": "Comminuted",
+    "current_fracture_type": "Comminuted",
+    "initial_fracture_coordinates": [
+      838,
+      494
+    ],
+    "current_fracture_coordinates": [
+      719,
+      413
+    ],
+    "initial_severity": 80.0,
+    "initial_severity_grade": "Severe",
+    "current_severity": 80.0,
+    "current_severity_grade": "Severe",
+    "initial_bone_health": 20.0,
+    "current_bone_health": 20.0,
+    "confidence": 34.5,
+    "low_confidence_warning": true,
+    "initial_image_path": "/static/uploads/before_1745643535_199223-medicine-separated_shoulder-collar_bone-748x594.jpg",
+    "initial_annotated_image_path": "/static/uploads/annotated_before_1745643535_199223-medicine-separated_shoulder-collar_bone-748x594.jpg",
+    "current_image_path": "/static/uploads/after_1745643535_The_shoulder_theory_and_practice_450_x_350_-_podia_webpage.png",
+    "current_annotated_image_path": "/static/uploads/annotated_after_1745643535_The_shoulder_theory_and_practice_450_x_350_-_podia_webpage.png",
+    "improvement_percentage": 0.0,
+    "healing_stage": "Early",
+    "initial_image_description": "This X-ray is a Shoulder radiograph. Bones present: Clavicle, Scapula. A Comminuted fracture is detected in the Clavicle at coordinates (838, 494), with severe severity. Bone health score: 20.0/100.",
+    "current_image_description": "This X-ray is a Shoulder radiograph. Bones present: Clavicle, Scapula. A Comminuted fracture is detected in the Clavicle at coordinates (719, 413), with severe severity. Bone health score: 20.0/100."
+  },
+  {
+    "id": "a5f8ba83-d291-451c-bff1-c320451ee6b4",
+    "timestamp": "2025-04-26 10:30:20",
+    "category": "Chest",
+    "bones_present": [
+      "Ribs",
+      "Sternum"
+    ],
+    "initial_fractured_bone": "Ribs",
+    "current_fractured_bone": "Ribs",
+    "fracture_detected": true,
+    "initial_fracture_type": "Comminuted",
+    "current_fracture_type": "Comminuted",
+    "initial_fracture_coordinates": [
+      838,
+      494
+    ],
+    "current_fracture_coordinates": [
+      611,
+      393
+    ],
+    "initial_severity": 80.0,
+    "initial_severity_grade": "Severe",
+    "current_severity": 80.0,
+    "current_severity_grade": "Severe",
+    "initial_bone_health": 20.0,
+    "current_bone_health": 20.0,
+    "confidence": 71.0,
+    "low_confidence_warning": false,
+    "initial_image_path": "/static/uploads/before_1745643610_199223-medicine-separated_shoulder-collar_bone-748x594.jpg",
+    "initial_annotated_image_path": "/static/uploads/annotated_before_1745643610_199223-medicine-separated_shoulder-collar_bone-748x594.jpg",
+    "current_image_path": "/static/uploads/after_1745643610_rib-fracture-right.jpg",
+    "current_annotated_image_path": "/static/uploads/annotated_after_1745643610_rib-fracture-right.jpg",
+    "improvement_percentage": 0.0,
+    "healing_stage": "Early",
+    "initial_image_description": "This X-ray is a Chest radiograph. Bones present: Ribs, Sternum. A Comminuted fracture is detected in the Ribs at coordinates (838, 494), with severe severity. Bone health score: 20.0/100.",
+    "current_image_description": "This X-ray is a Chest radiograph. Bones present: Ribs, Sternum. A Comminuted fracture is detected in the Ribs at coordinates (611, 393), with severe severity. Bone health score: 20.0/100."
+  },
+  {
+    "id": "1d6447c3-f78b-4a3e-b2e4-a60915304138",
+    "timestamp": "2025-04-26 10:30:31",
+    "category": "Chest",
+    "bones_present": [
+      "Ribs",
+      "Sternum"
+    ],
+    "initial_fractured_bone": "Ribs",
+    "current_fractured_bone": "Ribs",
+    "fracture_detected": true,
+    "initial_fracture_type": "Comminuted",
+    "current_fracture_type": "Comminuted",
+    "initial_fracture_coordinates": [
+      838,
+      494
+    ],
+    "current_fracture_coordinates": [
+      611,
+      393
+    ],
+    "initial_severity": 80.0,
+    "initial_severity_grade": "Severe",
+    "current_severity": 80.0,
+    "current_severity_grade": "Severe",
+    "initial_bone_health": 20.0,
+    "current_bone_health": 20.0,
+    "confidence": 71.0,
+    "low_confidence_warning": false,
+    "initial_image_path": "/static/uploads/before_1745643615_199223-medicine-separated_shoulder-collar_bone-748x594.jpg",
+    "initial_annotated_image_path": "/static/uploads/annotated_before_1745643615_199223-medicine-separated_shoulder-collar_bone-748x594.jpg",
+    "current_image_path": "/static/uploads/after_1745643615_rib-fracture-right.jpg",
+    "current_annotated_image_path": "/static/uploads/annotated_after_1745643615_rib-fracture-right.jpg",
+    "improvement_percentage": 0.0,
+    "healing_stage": "Early",
+    "initial_image_description": "This X-ray is a Chest radiograph. Bones present: Ribs, Sternum. A Comminuted fracture is detected in the Ribs at coordinates (838, 494), with severe severity. Bone health score: 20.0/100.",
+    "current_image_description": "This X-ray is a Chest radiograph. Bones present: Ribs, Sternum. A Comminuted fracture is detected in the Ribs at coordinates (611, 393), with severe severity. Bone health score: 20.0/100."
+  },
+  {
+    "id": "416e0af9-b138-47e1-8e81-602f97003418",
+    "timestamp": "2025-04-26 10:30:36",
+    "category": "Chest",
+    "bones_present": [
+      "Ribs",
+      "Sternum"
+    ],
+    "initial_fractured_bone": "Ribs",
+    "current_fractured_bone": "Ribs",
+    "fracture_detected": true,
+    "initial_fracture_type": "Comminuted",
+    "current_fracture_type": "Comminuted",
+    "initial_fracture_coordinates": [
+      838,
+      494
+    ],
+    "current_fracture_coordinates": [
+      611,
+      393
+    ],
+    "initial_severity": 80.0,
+    "initial_severity_grade": "Severe",
+    "current_severity": 80.0,
+    "current_severity_grade": "Severe",
+    "initial_bone_health": 20.0,
+    "current_bone_health": 20.0,
+    "confidence": 71.0,
+    "low_confidence_warning": false,
+    "initial_image_path": "/static/uploads/before_1745643620_199223-medicine-separated_shoulder-collar_bone-748x594.jpg",
+    "initial_annotated_image_path": "/static/uploads/annotated_before_1745643620_199223-medicine-separated_shoulder-collar_bone-748x594.jpg",
+    "current_image_path": "/static/uploads/after_1745643620_rib-fracture-right.jpg",
+    "current_annotated_image_path": "/static/uploads/annotated_after_1745643620_rib-fracture-right.jpg",
+    "improvement_percentage": 0.0,
+    "healing_stage": "Early",
+    "initial_image_description": "This X-ray is a Chest radiograph. Bones present: Ribs, Sternum. A Comminuted fracture is detected in the Ribs at coordinates (838, 494), with severe severity. Bone health score: 20.0/100.",
+    "current_image_description": "This X-ray is a Chest radiograph. Bones present: Ribs, Sternum. A Comminuted fracture is detected in the Ribs at coordinates (611, 393), with severe severity. Bone health score: 20.0/100."
+  },
+  {
+    "id": "c2ba0c5c-8f57-4b9d-91f3-c6514a995caa",
+    "timestamp": "2025-04-26 10:31:15",
+    "category": "Chest",
+    "bones_present": [
+      "Ribs",
+      "Sternum"
+    ],
+    "initial_fractured_bone": "Ribs",
+    "current_fractured_bone": "Ribs",
+    "fracture_detected": true,
+    "initial_fracture_type": "Comminuted",
+    "current_fracture_type": "Comminuted",
+    "initial_fracture_coordinates": [
+      838,
+      494
+    ],
+    "current_fracture_coordinates": [
+      611,
+      393
+    ],
+    "initial_severity": 80.0,
+    "initial_severity_grade": "Severe",
+    "current_severity": 80.0,
+    "current_severity_grade": "Severe",
+    "initial_bone_health": 20.0,
+    "current_bone_health": 20.0,
+    "confidence": 71.0,
+    "low_confidence_warning": false,
+    "initial_image_path": "/static/uploads/before_1745643664_199223-medicine-separated_shoulder-collar_bone-748x594.jpg",
+    "initial_annotated_image_path": "/static/uploads/annotated_before_1745643664_199223-medicine-separated_shoulder-collar_bone-748x594.jpg",
+    "current_image_path": "/static/uploads/after_1745643664_rib-fracture-right.jpg",
+    "current_annotated_image_path": "/static/uploads/annotated_after_1745643664_rib-fracture-right.jpg",
+    "improvement_percentage": 0.0,
+    "healing_stage": "Early",
+    "initial_image_description": "This X-ray is a Chest radiograph. Bones present: Ribs, Sternum. A Comminuted fracture is detected in the Ribs at coordinates (838, 494), with severe severity. Bone health score: 20.0/100.",
+    "current_image_description": "This X-ray is a Chest radiograph. Bones present: Ribs, Sternum. A Comminuted fracture is detected in the Ribs at coordinates (611, 393), with severe severity. Bone health score: 20.0/100."
+  },
+  {
+    "id": "ac4a74ff-acd4-4a50-8e46-e82e44cb7635",
+    "timestamp": "2025-04-26 10:31:47",
+    "category": "Chest",
+    "bones_present": [
+      "Ribs",
+      "Sternum"
+    ],
+    "initial_fractured_bone": "Ribs",
+    "current_fractured_bone": "Ribs",
+    "fracture_detected": true,
+    "initial_fracture_type": "Comminuted",
+    "current_fracture_type": "Comminuted",
+    "initial_fracture_coordinates": [
+      611,
+      393
+    ],
+    "current_fracture_coordinates": [
+      611,
+      393
+    ],
+    "initial_severity": 80.0,
+    "initial_severity_grade": "Severe",
+    "current_severity": 80.0,
+    "current_severity_grade": "Severe",
+    "initial_bone_health": 20.0,
+    "current_bone_health": 20.0,
+    "confidence": 71.0,
+    "low_confidence_warning": false,
+    "initial_image_path": "/static/uploads/before_1745643697_rib-fracture-right.jpg",
+    "initial_annotated_image_path": "/static/uploads/annotated_before_1745643697_rib-fracture-right.jpg",
+    "current_image_path": "/static/uploads/after_1745643697_rib-fracture-right.jpg",
+    "current_annotated_image_path": "/static/uploads/annotated_after_1745643697_rib-fracture-right.jpg",
+    "improvement_percentage": 0.0,
+    "healing_stage": "Early",
+    "initial_image_description": "This X-ray is a Chest radiograph. Bones present: Ribs, Sternum. A Comminuted fracture is detected in the Ribs at coordinates (611, 393), with severe severity. Bone health score: 20.0/100.",
+    "current_image_description": "This X-ray is a Chest radiograph. Bones present: Ribs, Sternum. A Comminuted fracture is detected in the Ribs at coordinates (611, 393), with severe severity. Bone health score: 20.0/100."
+  },
+  {
+    "id": "ccac8b96-2c94-4914-a486-1db3ab81d292",
+    "timestamp": "2025-04-26 11:08:19",
+    "category": "Chest",
+    "bones_present": [
+      "Ribs",
+      "Sternum"
+    ],
+    "fractured_bone": "Ribs",
+    "fracture_detected": true,
+    "fracture_type": "Comminuted",
+    "fracture_coordinates": [
+      611,
+      393
+    ],
+    "severity": 80.0,
+    "severity_grade": "Severe",
+    "bone_health": 20.0,
+    "confidence": 71.0,
+    "low_confidence_warning": false,
+    "image_path": "/static/uploads/1745645894_rib-fracture-right.jpg",
+    "annotated_image_path": "/static/uploads/annotated_1745645894_rib-fracture-right.jpg",
+    "image_description": "This X-ray is a Chest radiograph. Bones present: Ribs, Sternum. A Comminuted fracture is detected in the Ribs at coordinates (611, 393), with severe severity. Bone health score: 20.0/100."
+  },
+  {
+    "id": "9c1edda3-936f-4f24-b910-c0a782114a45",
+    "timestamp": "2025-04-26 11:32:19",
+    "category": "Chest",
+    "bones_present": [
+      "Ribs",
+      "Sternum"
+    ],
+    "fractured_bone": "Ribs",
+    "fracture_detected": true,
+    "fracture_type": "Simple",
+    "fracture_coordinates": [
+      688,
+      493
+    ],
+    "severity": 50.0,
+    "severity_grade": "Moderate",
+    "bone_health": 50.0,
+    "confidence": 59.0,
+    "low_confidence_warning": true,
+    "image_path": "/static/uploads/1745647336_OIP_1.jpeg",
+    "annotated_image_path": "/static/uploads/annotated_1745647336_OIP_1.jpeg",
+    "image_description": "This X-ray is a Chest radiograph. Bones present: Ribs, Sternum. A Simple fracture is detected in the Ribs at coordinates (688, 493), with moderate severity. Bone health score: 50.0/100."
+  },
+  {
+    "id": "0856316d-395c-4668-8639-08cd0a13912d",
+    "timestamp": "2025-04-26 11:32:48",
+    "category": "Chest",
+    "bones_present": [
+      "Ribs",
+      "Sternum"
+    ],
+    "fractured_bone": "Ribs",
+    "fracture_detected": true,
+    "fracture_type": "Comminuted",
+    "fracture_coordinates": [
+      611,
+      393
+    ],
+    "severity": 80.0,
+    "severity_grade": "Severe",
+    "bone_health": 20.0,
+    "confidence": 71.0,
+    "low_confidence_warning": false,
+    "image_path": "/static/uploads/1745647362_rib-fracture-right.jpg",
+    "annotated_image_path": "/static/uploads/annotated_1745647362_rib-fracture-right.jpg",
+    "image_description": "This X-ray is a Chest radiograph. Bones present: Ribs, Sternum. A Comminuted fracture is detected in the Ribs at coordinates (611, 393), with severe severity. Bone health score: 20.0/100."
+  },
+  {
+    "id": "91b7cb58-7eb7-4b27-a759-92f23c993501",
+    "timestamp": "2025-04-26 11:36:41",
+    "category": "Chest",
+    "bones_present": [
+      "Ribs",
+      "Sternum"
+    ],
+    "initial_fractured_bone": "Ribs",
+    "current_fractured_bone": "Ribs",
+    "fracture_detected": true,
+    "initial_fracture_type": "Comminuted",
+    "current_fracture_type": "Comminuted",
+    "initial_fracture_coordinates": [
+      611,
+      393
+    ],
+    "current_fracture_coordinates": [
+      611,
+      393
+    ],
+    "initial_severity": 80.0,
+    "initial_severity_grade": "Severe",
+    "current_severity": 80.0,
+    "current_severity_grade": "Severe",
+    "initial_bone_health": 20.0,
+    "current_bone_health": 20.0,
+    "confidence": 71.0,
+    "low_confidence_warning": false,
+    "initial_image_path": "/static/uploads/before_1745647591_rib-fracture-right.jpg",
+    "initial_annotated_image_path": "/static/uploads/annotated_before_1745647591_rib-fracture-right.jpg",
+    "current_image_path": "/static/uploads/after_1745647591_rib-fracture-right.jpg",
+    "current_annotated_image_path": "/static/uploads/annotated_after_1745647591_rib-fracture-right.jpg",
+    "improvement_percentage": 0.0,
+    "healing_stage": "Early",
+    "initial_image_description": "This X-ray is a Chest radiograph. Bones present: Ribs, Sternum. A Comminuted fracture is detected in the Ribs at coordinates (611, 393), with severe severity. Bone health score: 20.0/100.",
+    "current_image_description": "This X-ray is a Chest radiograph. Bones present: Ribs, Sternum. A Comminuted fracture is detected in the Ribs at coordinates (611, 393), with severe severity. Bone health score: 20.0/100."
+  },
+  {
+    "id": "08918f8f-67f4-453d-9fd4-2db90ef8fde6",
+    "timestamp": "2025-04-26 11:43:49",
+    "category": "Chest",
+    "bones_present": [
+      "Ribs",
+      "Sternum"
+    ],
+    "fractured_bone": "Ribs",
+    "fracture_detected": true,
+    "fracture_type": "Comminuted",
+    "fracture_coordinates": [
+      611,
+      393
+    ],
+    "severity": 80.0,
+    "severity_grade": "Severe",
+    "bone_health": 20.0,
+    "confidence": 71.0,
+    "low_confidence_warning": false,
+    "image_path": "/static/uploads/1745648023_rib-fracture-right.jpg",
+    "annotated_image_path": "/static/uploads/annotated_1745648023_rib-fracture-right.jpg",
+    "image_description": "This X-ray is a Chest radiograph. Bones present: Ribs, Sternum. A Comminuted fracture is detected in the Ribs at coordinates (611, 393), with severe severity. Bone health score: 20.0/100."
+  },
+  {
+    "id": "5bb31807-fcf8-4e43-bf63-9001c8e22ce8",
+    "timestamp": "2025-04-26 11:46:01",
+    "category": "Chest",
+    "bones_present": [
+      "Ribs",
+      "Sternum"
+    ],
+    "initial_fractured_bone": "Ribs",
+    "current_fractured_bone": "Ribs",
+    "fracture_detected": true,
+    "initial_fracture_type": "Comminuted",
+    "current_fracture_type": "Comminuted",
+    "initial_fracture_coordinates": [
+      611,
+      393
+    ],
+    "current_fracture_coordinates": [
+      611,
+      393
+    ],
+    "initial_severity": 80.0,
+    "initial_severity_grade": "Severe",
+    "current_severity": 80.0,
+    "current_severity_grade": "Severe",
+    "initial_bone_health": 20.0,
+    "current_bone_health": 20.0,
+    "confidence": 71.0,
+    "low_confidence_warning": false,
+    "initial_image_path": "/static/uploads/before_1745648152_rib-fracture-right.jpg",
+    "initial_annotated_image_path": "/static/uploads/annotated_before_1745648152_rib-fracture-right.jpg",
+    "current_image_path": "/static/uploads/after_1745648152_rib-fracture-right.jpg",
+    "current_annotated_image_path": "/static/uploads/annotated_after_1745648152_rib-fracture-right.jpg",
+    "improvement_percentage": 0.0,
+    "healing_stage": "Early",
+    "initial_image_description": "This X-ray is a Chest radiograph. Bones present: Ribs, Sternum. A Comminuted fracture is detected in the Ribs at coordinates (611, 393), with severe severity. Bone health score: 20.0/100.",
+    "current_image_description": "This X-ray is a Chest radiograph. Bones present: Ribs, Sternum. A Comminuted fracture is detected in the Ribs at coordinates (611, 393), with severe severity. Bone health score: 20.0/100."
+  },
+  {
+    "id": "7263eb53-0603-47bd-8c26-4cc639d890d8",
+    "timestamp": "2025-04-26 11:59:57",
+    "category": "Chest",
+    "bones_present": [
+      "Ribs",
+      "Sternum"
+    ],
+    "fractured_bone": "Ribs",
+    "fracture_detected": true,
+    "fracture_type": "Comminuted",
+    "fracture_coordinates": [
+      611,
+      393
+    ],
+    "severity": 80.0,
+    "severity_grade": "Severe",
+    "bone_health": 20.0,
+    "confidence": 71.0,
+    "low_confidence_warning": false,
+    "image_path": "/static/uploads/1745648995_rib-fracture-right.jpg",
+    "annotated_image_path": "/static/uploads/annotated_1745648995_rib-fracture-right.jpg",
+    "image_description": "This X-ray is a Chest radiograph. Bones present: Ribs, Sternum. A Comminuted fracture is detected in the Ribs at coordinates (611, 393), with severe severity. Bone health score: 20.0/100."
+  },
+  {
+    "id": "f857750e-83ca-4665-a40c-e3d53f19f080",
+    "timestamp": "2025-04-26 12:00:57",
+    "category": "Chest",
+    "bones_present": [
+      "Ribs",
+      "Sternum"
+    ],
+    "initial_fractured_bone": "Ribs",
+    "current_fractured_bone": "Ribs",
+    "fracture_detected": true,
+    "initial_fracture_type": "Comminuted",
+    "current_fracture_type": "Comminuted",
+    "initial_fracture_coordinates": [
+      611,
+      393
+    ],
+    "current_fracture_coordinates": [
+      611,
+      393
+    ],
+    "initial_severity": 80.0,
+    "initial_severity_grade": "Severe",
+    "current_severity": 80.0,
+    "current_severity_grade": "Severe",
+    "initial_bone_health": 20.0,
+    "current_bone_health": 20.0,
+    "confidence": 71.0,
+    "low_confidence_warning": false,
+    "initial_image_path": "/static/uploads/before_1745649054_rib-fracture-right.jpg",
+    "initial_annotated_image_path": "/static/uploads/annotated_before_1745649054_rib-fracture-right.jpg",
+    "current_image_path": "/static/uploads/after_1745649054_rib-fracture-right.jpg",
+    "current_annotated_image_path": "/static/uploads/annotated_after_1745649054_rib-fracture-right.jpg",
+    "improvement_percentage": 0.0,
+    "healing_stage": "Early",
+    "initial_image_description": "This X-ray is a Chest radiograph. Bones present: Ribs, Sternum. A Comminuted fracture is detected in the Ribs at coordinates (611, 393), with severe severity. Bone health score: 20.0/100.",
+    "current_image_description": "This X-ray is a Chest radiograph. Bones present: Ribs, Sternum. A Comminuted fracture is detected in the Ribs at coordinates (611, 393), with severe severity. Bone health score: 20.0/100."
+  },
+  {
+    "id": "f1311987-dd71-455a-ad98-e75f2c608382",
+    "timestamp": "2025-04-26 13:06:29",
+    "category": "Chest",
+    "bones_present": [
+      "Ribs",
+      "Sternum"
+    ],
+    "fractured_bone": "Ribs",
+    "fracture_detected": true,
+    "fracture_type": "Comminuted",
+    "fracture_coordinates": [
+      611,
+      393
+    ],
+    "severity": 80.0,
+    "severity_grade": "Severe",
+    "bone_health": 20.0,
+    "confidence": 71.0,
+    "low_confidence_warning": false,
+    "image_path": "/static/uploads/1745652987_rib-fracture-right.jpg",
+    "annotated_image_path": "/static/uploads/annotated_1745652987_rib-fracture-right.jpg",
+    "image_description": "This X-ray is a Chest radiograph. Bones present: Ribs, Sternum. A Comminuted fracture is detected in the Ribs at coordinates (611, 393), with severe severity. Bone health score: 20.0/100."
+  },
+  {
+    "id": "4465a884-69f6-438f-9674-d173ab9f9fd9",
+    "timestamp": "2025-04-26 13:07:04",
+    "category": "Chest",
+    "bones_present": [
+      "Ribs",
+      "Sternum"
+    ],
+    "initial_fractured_bone": "Ribs",
+    "current_fractured_bone": "Ribs",
+    "fracture_detected": true,
+    "initial_fracture_type": "Comminuted",
+    "current_fracture_type": "Comminuted",
+    "initial_fracture_coordinates": [
+      611,
+      393
+    ],
+    "current_fracture_coordinates": [
+      611,
+      393
+    ],
+    "initial_severity": 80.0,
+    "initial_severity_grade": "Severe",
+    "current_severity": 80.0,
+    "current_severity_grade": "Severe",
+    "initial_bone_health": 20.0,
+    "current_bone_health": 20.0,
+    "confidence": 71.0,
+    "low_confidence_warning": false,
+    "initial_image_path": "/static/uploads/before_1745653021_rib-fracture-right.jpg",
+    "initial_annotated_image_path": "/static/uploads/annotated_before_1745653021_rib-fracture-right.jpg",
+    "current_image_path": "/static/uploads/after_1745653021_rib-fracture-right.jpg",
+    "current_annotated_image_path": "/static/uploads/annotated_after_1745653021_rib-fracture-right.jpg",
+    "improvement_percentage": 0.0,
+    "healing_stage": "Early",
+    "initial_image_description": "This X-ray is a Chest radiograph. Bones present: Ribs, Sternum. A Comminuted fracture is detected in the Ribs at coordinates (611, 393), with severe severity. Bone health score: 20.0/100.",
+    "current_image_description": "This X-ray is a Chest radiograph. Bones present: Ribs, Sternum. A Comminuted fracture is detected in the Ribs at coordinates (611, 393), with severe severity. Bone health score: 20.0/100."
+  },
+  {
+    "id": "8f845488-89e8-4b44-af93-d7ae924b00fb",
+    "timestamp": "2025-04-27 11:56:53",
+    "category": "Chest",
+    "bones_present": [
+      "Ribs",
+      "Sternum"
+    ],
+    "fractured_bone": "Ribs",
+    "fracture_detected": true,
+    "fracture_type": "Comminuted",
+    "fracture_coordinates": [
+      611,
+      393
+    ],
+    "severity": 80.0,
+    "severity_grade": "Severe",
+    "bone_health": 20.0,
+    "confidence": 71.0,
+    "low_confidence_warning": false,
+    "image_path": "/static/uploads/1745735212_rib-fracture-right.jpg",
+    "annotated_image_path": "/static/uploads/annotated_1745735212_rib-fracture-right.jpg",
+    "image_description": "This X-ray is a Chest radiograph. Bones present: Ribs, Sternum. A Comminuted fracture is detected in the Ribs at coordinates (611, 393), with severe severity. Bone health score: 20.0/100."
+  },
+  {
+    "id": "b8e54c17-ca5e-4b20-9563-10b6ffb22e6c",
+    "timestamp": "2025-04-27 11:58:58",
+    "category": "Shoulder",
+    "bones_present": [
+      "Clavicle",
+      "Scapula"
+    ],
+    "initial_fractured_bone": "Clavicle",
+    "current_fractured_bone": "Clavicle",
+    "fracture_detected": true,
+    "initial_fracture_type": "Comminuted",
+    "current_fracture_type": "Comminuted",
+    "initial_fracture_coordinates": [
+      774,
+      424
+    ],
+    "current_fracture_coordinates": [
+      774,
+      424
+    ],
+    "initial_severity": 80.0,
+    "initial_severity_grade": "Severe",
+    "current_severity": 80.0,
+    "current_severity_grade": "Severe",
+    "initial_bone_health": 20.0,
+    "current_bone_health": 20.0,
+    "confidence": 44.5,
+    "low_confidence_warning": true,
+    "initial_image_path": "/static/uploads/before_1745735337_ccf29d698cb766b5f3a7899fdb32eb_big_gallery.jpg",
+    "initial_annotated_image_path": "/static/uploads/annotated_before_1745735337_ccf29d698cb766b5f3a7899fdb32eb_big_gallery.jpg",
+    "current_image_path": "/static/uploads/after_1745735337_ccf29d698cb766b5f3a7899fdb32eb_big_gallery.jpg",
+    "current_annotated_image_path": "/static/uploads/annotated_after_1745735337_ccf29d698cb766b5f3a7899fdb32eb_big_gallery.jpg",
+    "improvement_percentage": 0.0,
+    "healing_stage": "Early",
+    "initial_image_description": "This X-ray is a Shoulder radiograph. Bones present: Clavicle, Scapula. A Comminuted fracture is detected in the Clavicle at coordinates (774, 424), with severe severity. Bone health score: 20.0/100.",
+    "current_image_description": "This X-ray is a Shoulder radiograph. Bones present: Clavicle, Scapula. A Comminuted fracture is detected in the Clavicle at coordinates (774, 424), with severe severity. Bone health score: 20.0/100."
+  },
+  {
+    "id": "f6202d10-6c0a-4699-99b7-8b270e4b6338",
+    "timestamp": "2025-04-29 09:40:08",
+    "category": "Chest",
+    "bones_present": [
+      "Ribs",
+      "Sternum"
+    ],
+    "fractured_bone": "Ribs",
+    "fracture_detected": true,
+    "fracture_type": "Comminuted",
+    "fracture_coordinates": [
+      611,
+      393
+    ],
+    "severity": 80.0,
+    "severity_grade": "Severe",
+    "bone_health": 20.0,
+    "confidence": 71.0,
+    "low_confidence_warning": false,
+    "image_path": "/static/uploads/1745899799_rib-fracture-right.jpg",
+    "annotated_image_path": "/static/uploads/annotated_1745899799_rib-fracture-right.jpg",
+    "image_description": "This X-ray is a Chest radiograph. Bones present: Ribs, Sternum. A Comminuted fracture is detected in the Ribs at coordinates (611, 393), with severe severity. Bone health score: 20.0/100."
+  },
+  {
+    "id": "2cd05998-ff13-42b4-b36d-e490d1f9aa5b",
+    "timestamp": "2025-05-02 04:12:07",
+    "category": "Elbow",
+    "bones_present": [
+      "Humerus",
+      "Radius",
+      "Ulna"
+    ],
+    "confidence": 66.5,
+    "low_confidence_warning": false,
+    "image_path": "/static/uploads/1746139326_16.png",
+    "description": "This X-ray is a Elbow radiograph. Bones present: Humerus, Radius, Ulna."
+  },
+  {
+    "id": "fc952121-5241-44c6-9797-bf5c7d55abf3",
+    "timestamp": "2025-05-02 04:13:31",
+    "category": "Elbow",
+    "bones_present": [
+      "Humerus",
+      "Radius",
+      "Ulna"
+    ],
+    "confidence": 42.0,
+    "low_confidence_warning": true,
+    "image_path": "/static/uploads/1746139410_14.png",
+    "description": "This X-ray is a Elbow radiograph. Bones present: Humerus, Radius, Ulna."
+  },
+  {
+    "id": "9b67d0d0-1979-4be7-ae26-f6e9c414c078",
+    "timestamp": "2025-05-02 04:13:48",
+    "category": "Elbow",
+    "bones_present": [
+      "Humerus",
+      "Radius",
+      "Ulna"
+    ],
+    "confidence": 66.5,
+    "low_confidence_warning": false,
+    "image_path": "/static/uploads/1746139427_16.png",
+    "description": "This X-ray is a Elbow radiograph. Bones present: Humerus, Radius, Ulna."
+  },
+  {
+    "id": "23247bdd-f759-4a48-9a9c-219dfbab5264",
+    "timestamp": "2025-05-02 04:14:27",
+    "category": "Chest",
+    "bones_present": [
+      "Ribs",
+      "Sternum"
+    ],
+    "confidence": 33.0,
+    "low_confidence_warning": true,
+    "image_path": "/static/uploads/1746139466_OIP.jpeg",
+    "description": "This X-ray is a Chest radiograph. Bones present: Ribs, Sternum."
+  },
+  {
+    "id": "92be698e-4a73-4877-a117-c152eabdcf46",
+    "timestamp": "2025-05-02 04:22:27",
+    "category": "Chest",
+    "bones_present": [
+      "Ribs",
+      "Sternum"
+    ],
+    "confidence": 33.0,
+    "low_confidence_warning": true,
+    "image_path": "/static/uploads/1746139946_OIP.jpeg",
+    "description": "This X-ray is a Chest radiograph. Bones present: Ribs, Sternum."
+  },
+  {
+    "id": "d47c08f7-1275-4357-9df3-b4ad84ae7345",
+    "timestamp": "2025-05-02 04:29:17",
+    "category": "Chest",
+    "bones_present": [
+      "Ribs",
+      "Sternum"
+    ],
+    "confidence": 33.0,
+    "low_confidence_warning": true,
+    "image_path": "/static/uploads/1746140356_OIP.jpeg",
+    "description": "This X-ray is a Chest radiograph. Bones present: Ribs, Sternum."
+  },
+  {
+    "id": "bfb0b794-8e59-465e-83e6-71b18c9e25db",
+    "timestamp": "2025-05-02 04:35:56",
+    "category": "Chest",
+    "bones_present": [
+      "Ribs",
+      "Sternum"
+    ],
+    "confidence": 33.0,
+    "low_confidence_warning": true,
+    "image_path": "/static/uploads/1746140756_OIP.jpeg",
+    "annotated_image_path": "/static/uploads/annotated_1746140756_OIP.jpeg",
+    "description": "This X-ray is a Chest radiograph. Bones present: Ribs, Sternum."
+  },
+  {
+    "id": "9c8bf508-8ece-46ae-ac87-12760a046684",
+    "timestamp": "2025-05-02 04:41:25",
+    "category": "Chest",
+    "bones_present": [
+      "Ribs",
+      "Sternum"
+    ],
+    "confidence": 79.5,
+    "low_confidence_warning": false,
+    "image_path": "/static/uploads/1746141085_rib-fracture-right.jpg",
+    "annotated_image_path": "/static/uploads/annotated_1746141085_rib-fracture-right.jpg",
+    "description": "This X-ray is a Chest radiograph. Bones present: Ribs, Sternum."
+  },
+  {
+    "id": "1e8ecba5-b7b3-402d-b93e-11045f23f9fd",
+    "timestamp": "2025-05-02 04:41:47",
+    "category": "Chest",
+    "bones_present": [
+      "Ribs",
+      "Sternum"
+    ],
+    "confidence": 33.0,
+    "low_confidence_warning": true,
+    "image_path": "/static/uploads/1746141106_OIP.jpeg",
+    "annotated_image_path": "/static/uploads/annotated_1746141106_OIP.jpeg",
+    "description": "This X-ray is a Chest radiograph. Bones present: Ribs, Sternum."
+  },
+  {
+    "id": "9deeddfd-a601-4203-9bf9-cd7e3142b0e4",
+    "timestamp": "2025-05-02 04:44:15",
+    "category": "Chest",
+    "bones_present": [
+      "Ribs",
+      "Sternum"
+    ],
+    "confidence": 33.0,
+    "low_confidence_warning": true,
+    "image_path": "/static/uploads/1746141255_OIP.jpeg",
+    "annotated_image_path": "/static/uploads/annotated_1746141255_OIP.jpeg",
+    "description": "This X-ray is a Chest radiograph. Bones present: Ribs, Sternum."
+  },
+  {
+    "id": "a5b8d025-218f-486f-bfbb-e829da4e55a6",
+    "timestamp": "2025-05-02 04:44:29",
+    "category": "Chest",
+    "bones_present": [
+      "Ribs",
+      "Sternum"
+    ],
+    "confidence": 82.5,
+    "low_confidence_warning": false,
+    "image_path": "/static/uploads/1746141269_R.jpeg",
+    "annotated_image_path": "/static/uploads/annotated_1746141269_R.jpeg",
+    "description": "This X-ray is a Chest radiograph. Bones present: Ribs, Sternum."
+  },
+  {
+    "id": "98fcc9a2-dd39-4d36-b138-cc4c29404248",
+    "timestamp": "2025-05-02 04:44:55",
+    "category": "Chest",
+    "bones_present": [
+      "Ribs",
+      "Sternum"
+    ],
+    "confidence": 79.5,
+    "low_confidence_warning": false,
+    "image_path": "/static/uploads/1746141295_rib-fracture-right.jpg",
+    "annotated_image_path": "/static/uploads/annotated_1746141295_rib-fracture-right.jpg",
+    "description": "This X-ray is a Chest radiograph. Bones present: Ribs, Sternum."
+  },
+  {
+    "id": "1d355222-01bb-4d70-99f3-086618c4b823",
+    "timestamp": "2025-05-02 04:45:29",
+    "category": "Finger",
+    "bones_present": [
+      "Phalanges"
+    ],
+    "confidence": 87.5,
+    "low_confidence_warning": false,
+    "image_path": "/static/uploads/1746141329_2.png",
+    "annotated_image_path": "/static/uploads/annotated_1746141329_2.png",
+    "description": "This X-ray is a Finger radiograph. Bones present: Phalanges."
+  },
+  {
+    "id": "10b37b98-c063-4545-ac32-5129ccf9c767",
+    "timestamp": "2025-05-02 04:45:43",
+    "category": "Finger",
+    "bones_present": [
+      "Phalanges"
+    ],
+    "confidence": 87.5,
+    "low_confidence_warning": false,
+    "image_path": "/static/uploads/1746141343_15.png",
+    "annotated_image_path": "/static/uploads/annotated_1746141343_15.png",
+    "description": "This X-ray is a Finger radiograph. Bones present: Phalanges."
+  },
+  {
+    "id": "d6dd4f56-811f-41da-9138-d87d96dc8002",
+    "timestamp": "2025-05-02 04:45:55",
+    "category": "Hand",
+    "bones_present": [
+      "Metacarpals",
+      "Carpals"
+    ],
+    "confidence": 76.5,
+    "low_confidence_warning": false,
+    "image_path": "/static/uploads/1746141355_3.png",
+    "annotated_image_path": "/static/uploads/annotated_1746141355_3.png",
+    "description": "This X-ray is a Hand radiograph. Bones present: Metacarpals, Carpals."
+  },
+  {
+    "id": "1f3ad458-1f58-4ca9-b52a-4de89b2ca4ff",
+    "timestamp": "2025-05-02 04:46:14",
+    "category": "Shoulder",
+    "bones_present": [
+      "Clavicle",
+      "Scapula"
+    ],
+    "confidence": 51.5,
+    "low_confidence_warning": true,
+    "image_path": "/static/uploads/1746141374_22.png",
+    "annotated_image_path": "/static/uploads/annotated_1746141374_22.png",
+    "description": "This X-ray is a Shoulder radiograph. Bones present: Clavicle, Scapula."
+  },
+  {
+    "id": "ec4c6661-2d70-4a51-a15c-6c71bbfa8c8d",
+    "timestamp": "2025-05-02 04:46:51",
+    "category": "Shoulder",
+    "bones_present": [
+      "Clavicle",
+      "Scapula"
+    ],
+    "confidence": 42.5,
+    "low_confidence_warning": true,
+    "image_path": "/static/uploads/1746141410_26_no.jpg",
+    "annotated_image_path": "/static/uploads/annotated_1746141410_26_no.jpg",
+    "description": "This X-ray is a Shoulder radiograph. Bones present: Clavicle, Scapula."
+  },
+  {
+    "id": "738bc330-5cea-4404-bb82-83dca11e5728",
+    "timestamp": "2025-05-02 04:47:16",
+    "category": "Elbow",
+    "bones_present": [
+      "Humerus",
+      "Radius",
+      "Ulna"
+    ],
+    "confidence": 89.0,
+    "low_confidence_warning": false,
+    "image_path": "/static/uploads/1746141436_12.png",
+    "annotated_image_path": "/static/uploads/annotated_1746141436_12.png",
+    "description": "This X-ray is a Elbow radiograph. Bones present: Humerus, Radius, Ulna."
+  },
+  {
+    "id": "41cb8696-4a6e-4d83-84bf-0d7675add464",
+    "timestamp": "2025-05-02 04:47:40",
+    "category": "Elbow",
+    "bones_present": [
+      "Humerus",
+      "Radius",
+      "Ulna"
+    ],
+    "confidence": 86.0,
+    "low_confidence_warning": false,
+    "image_path": "/static/uploads/1746141460_18.png",
+    "annotated_image_path": "/static/uploads/annotated_1746141460_18.png",
+    "description": "This X-ray is a Elbow radiograph. Bones present: Humerus, Radius, Ulna."
+  },
+  {
+    "id": "6c52f97e-9c59-473a-8652-7df05539f957",
+    "timestamp": "2025-05-02 04:49:23",
+    "category": "Wrist",
+    "bones_present": [
+      "Carpals",
+      "Distal Radius",
+      "Distal Ulna"
+    ],
+    "confidence": 34.5,
+    "low_confidence_warning": true,
+    "image_path": "/static/uploads/1746141563_OIP_2.jpeg",
+    "annotated_image_path": "/static/uploads/annotated_1746141563_OIP_2.jpeg",
+    "description": "This X-ray is a Wrist radiograph. Bones present: Carpals, Distal Radius, Distal Ulna."
+  },
+  {
+    "id": "c5133102-22db-44ac-9bd4-54c4d7451bfd",
+    "timestamp": "2025-05-02 04:50:28",
+    "category": "Wrist",
+    "bones_present": [
+      "Carpals",
+      "Distal Radius",
+      "Distal Ulna"
+    ],
+    "confidence": 34.5,
+    "low_confidence_warning": true,
+    "image_path": "/static/uploads/1746141628_OIP_2.jpeg",
+    "annotated_image_path": "/static/uploads/annotated_1746141628_OIP_2.jpeg",
+    "description": "This X-ray is a Wrist radiograph. Bones present: Carpals, Distal Radius, Distal Ulna."
+  },
+  {
+    "id": "9a441164-dadd-47ab-b94e-b3ce94e8e518",
+    "timestamp": "2025-05-02 04:50:39",
+    "category": "Shoulder",
+    "bones_present": [
+      "Clavicle",
+      "Scapula"
+    ],
+    "confidence": 37.0,
+    "low_confidence_warning": true,
+    "image_path": "/static/uploads/1746141639_199223-medicine-separated_shoulder-collar_bone-748x594.jpg",
+    "annotated_image_path": "/static/uploads/annotated_1746141639_199223-medicine-separated_shoulder-collar_bone-748x594.jpg",
+    "description": "This X-ray is a Shoulder radiograph. Bones present: Clavicle, Scapula."
+  },
+  {
+    "id": "7a27dbc6-861f-4bb8-8019-ea54bd9bc80a",
+    "timestamp": "2025-05-02 04:50:56",
+    "category": "Wrist",
+    "bones_present": [
+      "Carpals",
+      "Distal Radius",
+      "Distal Ulna"
+    ],
+    "confidence": 30.5,
+    "low_confidence_warning": true,
+    "image_path": "/static/uploads/1746141656_finger.jpg",
+    "annotated_image_path": "/static/uploads/annotated_1746141656_finger.jpg",
+    "description": "This X-ray is a Wrist radiograph. Bones present: Carpals, Distal Radius, Distal Ulna."
+  },
+  {
+    "id": "d2940a21-951a-4b55-b365-9fbd195e4812",
+    "timestamp": "2025-05-02 04:53:21",
+    "category": "Wrist",
+    "bones_present": [
+      "Carpals",
+      "Distal Radius",
+      "Distal Ulna"
+    ],
+    "confidence": 34.5,
+    "low_confidence_warning": true,
+    "image_path": "/static/uploads/1746141801_OIP_2.jpeg",
+    "annotated_image_path": "/static/uploads/annotated_1746141801_OIP_2.jpeg",
+    "description": "This X-ray is a Wrist radiograph. Bones present: Carpals, Distal Radius, Distal Ulna."
+  },
+  {
+    "id": "45311e27-39cd-4169-99a6-53e27ea2592e",
+    "timestamp": "2025-05-02 04:53:34",
+    "category": "Shoulder",
+    "bones_present": [
+      "Clavicle",
+      "Scapula"
+    ],
+    "confidence": 37.0,
+    "low_confidence_warning": true,
+    "image_path": "/static/uploads/1746141814_199223-medicine-separated_shoulder-collar_bone-748x594.jpg",
+    "annotated_image_path": "/static/uploads/annotated_1746141814_199223-medicine-separated_shoulder-collar_bone-748x594.jpg",
+    "description": "This X-ray is a Shoulder radiograph. Bones present: Clavicle, Scapula."
+  },
+  {
+    "id": "121d9210-dec6-4843-88aa-a80061ecc96d",
+    "timestamp": "2025-05-02 04:53:42",
+    "category": "Shoulder",
+    "bones_present": [
+      "Clavicle",
+      "Scapula"
+    ],
+    "confidence": 36.5,
+    "low_confidence_warning": true,
+    "image_path": "/static/uploads/1746141822_4d83d807fe7af170aa25b936567aa7e4.jpg",
+    "annotated_image_path": "/static/uploads/annotated_1746141822_4d83d807fe7af170aa25b936567aa7e4.jpg",
+    "description": "This X-ray is a Shoulder radiograph. Bones present: Clavicle, Scapula."
+  },
+  {
+    "id": "7d57f315-e243-45aa-8f21-3b6dee1a197d",
+    "timestamp": "2025-05-02 04:53:58",
+    "category": "Chest",
+    "bones_present": [
+      "Ribs",
+      "Sternum"
+    ],
+    "confidence": 47.0,
+    "low_confidence_warning": true,
+    "image_path": "/static/uploads/1746141838_bony.png",
+    "annotated_image_path": "/static/uploads/annotated_1746141838_bony.png",
+    "description": "This X-ray is a Chest radiograph. Bones present: Ribs, Sternum."
+  },
+  {
+    "id": "5d39910f-4b5d-4345-aff0-f9c6e4757ed3",
+    "timestamp": "2025-05-02 04:54:11",
+    "category": "Chest",
+    "bones_present": [
+      "Ribs",
+      "Sternum"
+    ],
+    "confidence": 73.5,
+    "low_confidence_warning": false,
+    "image_path": "/static/uploads/1746141851_image.jpg",
+    "annotated_image_path": "/static/uploads/annotated_1746141851_image.jpg",
+    "description": "This X-ray is a Chest radiograph. Bones present: Ribs, Sternum."
+  },
+  {
+    "id": "803568a0-8ee9-4d83-9f48-cd4f049411f3",
+    "timestamp": "2025-05-02 04:54:23",
+    "category": "Chest",
+    "bones_present": [
+      "Ribs",
+      "Sternum"
+    ],
+    "confidence": 71.0,
+    "low_confidence_warning": false,
+    "image_path": "/static/uploads/1746141862_hussain_sagar_lake.jpeg",
+    "annotated_image_path": "/static/uploads/annotated_1746141862_hussain_sagar_lake.jpeg",
+    "description": "This X-ray is a Chest radiograph. Bones present: Ribs, Sternum."
+  },
+  {
+    "id": "e504b12a-482e-47c1-839c-d4e59ba3ba71",
+    "timestamp": "2025-05-02 05:01:50",
+    "category": "Chest",
+    "bones_present": [
+      "Ribs",
+      "Sternum"
+    ],
+    "confidence": 79.5,
+    "low_confidence_warning": false,
+    "image_path": "/static/uploads/1746142310_rib-fracture-right.jpg",
+    "annotated_image_path": "/static/uploads/annotated_1746142310_rib-fracture-right.jpg",
+    "description": "This X-ray is a Chest radiograph. Bones present: Ribs, Sternum."
+  },
+  {
+    "id": "38e6074b-379c-46a6-811c-24d694236ee0",
+    "timestamp": "2025-05-02 05:02:24",
+    "category": "Chest",
+    "bones_present": [
+      "Ribs",
+      "Sternum"
+    ],
+    "confidence": 71.0,
+    "low_confidence_warning": false,
+    "image_path": "/static/uploads/1746142344_hussain_sagar_lake.jpeg",
+    "annotated_image_path": "/static/uploads/annotated_1746142344_hussain_sagar_lake.jpeg",
+    "description": "This X-ray is a Chest radiograph. Bones present: Ribs, Sternum."
+  },
+  {
+    "id": "e74fdd3d-dcf6-4821-87fd-1f653c23fde2",
+    "timestamp": "2025-05-02 05:04:58",
+    "category": "Chest",
+    "bones_present": [
+      "Ribs",
+      "Sternum"
+    ],
+    "confidence": 79.5,
+    "low_confidence_warning": false,
+    "image_path": "/static/uploads/1746142498_rib-fracture-right.jpg",
+    "annotated_image_path": "/static/uploads/annotated_1746142498_rib-fracture-right.jpg",
+    "description": "This X-ray is a Chest radiograph. Bones present: Ribs, Sternum."
+  },
+  {
+    "id": "47d20c36-938b-426c-9c3c-46aff53d3c92",
+    "timestamp": "2025-05-02 05:05:05",
+    "category": "Wrist",
+    "bones_present": [
+      "Carpals",
+      "Distal Radius",
+      "Distal Ulna"
+    ],
+    "confidence": 34.5,
+    "low_confidence_warning": true,
+    "image_path": "/static/uploads/1746142505_OIP_2.jpeg",
+    "annotated_image_path": "/static/uploads/annotated_1746142505_OIP_2.jpeg",
+    "description": "This X-ray is a Wrist radiograph. Bones present: Carpals, Distal Radius, Distal Ulna."
+  },
+  {
+    "id": "60f6577a-18a8-41fe-8210-8ced16e1221f",
+    "timestamp": "2025-05-02 05:05:12",
+    "category": "Shoulder",
+    "bones_present": [
+      "Clavicle",
+      "Scapula"
+    ],
+    "confidence": 31.0,
+    "low_confidence_warning": true,
+    "image_path": "/static/uploads/1746142512_The_shoulder_theory_and_practice_450_x_350_-_podia_webpage.png",
+    "annotated_image_path": "/static/uploads/annotated_1746142512_The_shoulder_theory_and_practice_450_x_350_-_podia_webpage.png",
+    "description": "This X-ray is a Shoulder radiograph. Bones present: Clavicle, Scapula."
+  },
+  {
+    "id": "4a48b3e8-ea33-42ed-9ff7-ab3ac3fbc7a2",
+    "timestamp": "2025-05-02 05:05:21",
+    "category": "Wrist",
+    "bones_present": [
+      "Carpals",
+      "Distal Radius",
+      "Distal Ulna"
+    ],
+    "confidence": 30.5,
+    "low_confidence_warning": true,
+    "image_path": "/static/uploads/1746142521_finger.jpg",
+    "annotated_image_path": "/static/uploads/annotated_1746142521_finger.jpg",
+    "description": "This X-ray is a Wrist radiograph. Bones present: Carpals, Distal Radius, Distal Ulna."
+  },
+  {
+    "id": "dd828ca7-4eca-4df3-bef9-83031e8f8315",
+    "timestamp": "2025-05-02 05:05:51",
+    "category": "Chest",
+    "bones_present": [
+      "Ribs",
+      "Sternum"
+    ],
+    "confidence": 94.0,
+    "low_confidence_warning": false,
+    "image_path": "/static/uploads/1746142550_chest.jpg",
+    "annotated_image_path": "/static/uploads/annotated_1746142550_chest.jpg",
+    "description": "This X-ray is a Chest radiograph. Bones present: Ribs, Sternum."
+  },
+  {
+    "id": "2cec91e7-618f-42ec-8350-f4fd22058c80",
+    "timestamp": "2025-05-02 05:11:33",
+    "category": "Wrist",
+    "bones_present": [
+      "Carpals",
+      "Distal Radius",
+      "Distal Ulna"
+    ],
+    "confidence": 34.5,
+    "low_confidence_warning": true,
+    "image_path": "/static/uploads/1746142893_OIP_2.jpeg",
+    "annotated_image_path": "/static/uploads/annotated_1746142893_OIP_2.jpeg",
+    "description": "This X-ray is a Wrist radiograph. Bones present: Carpals, Distal Radius, Distal Ulna."
+  },
+  {
+    "id": "61782b87-65fd-4ded-ac1a-251f931d813e",
+    "timestamp": "2025-05-02 05:11:35",
+    "category": "Wrist",
+    "bones_present": [
+      "Carpals",
+      "Distal Radius",
+      "Distal Ulna"
+    ],
+    "confidence": 34.5,
+    "low_confidence_warning": true,
+    "image_path": "/static/uploads/1746142895_OIP_2.jpeg",
+    "annotated_image_path": "/static/uploads/annotated_1746142895_OIP_2.jpeg",
+    "description": "This X-ray is a Wrist radiograph. Bones present: Carpals, Distal Radius, Distal Ulna."
+  },
+  {
+    "id": "e1431f31-7f15-44c2-8773-b8b349ebddea",
+    "timestamp": "2025-05-02 15:30:14",
+    "category": "Wrist",
+    "bones_present": [
+      "Carpals",
+      "Distal Radius",
+      "Distal Ulna"
+    ],
+    "confidence": 34.5,
+    "low_confidence_warning": true,
+    "image_path": "/static/uploads/1746180013_OIP_2.jpeg",
+    "annotated_image_path": "/static/uploads/annotated_1746180013_OIP_2.jpeg",
+    "description": "This X-ray is a Wrist radiograph. Bones present: Carpals, Distal Radius, Distal Ulna."
+  },
+  {
+    "id": "9109a99a-2dc8-4899-ba97-84094f0e02d3",
+    "timestamp": "2025-05-02 15:30:14",
+    "category": "Wrist",
+    "bones_present": [
+      "Carpals",
+      "Distal Radius",
+      "Distal Ulna"
+    ],
+    "confidence": 34.5,
+    "low_confidence_warning": true,
+    "image_path": "/static/uploads/1746180013_OIP_2.jpeg",
+    "annotated_image_path": "/static/uploads/annotated_1746180013_OIP_2.jpeg",
+    "description": "This X-ray is a Wrist radiograph. Bones present: Carpals, Distal Radius, Distal Ulna."
+  },
+  {
+    "id": "3cab98c9-b033-4ed7-9c8e-96fbcd8f7c99",
+    "timestamp": "2025-05-02 15:30:21",
+    "category": "Wrist",
+    "bones_present": [
+      "Carpals",
+      "Distal Radius",
+      "Distal Ulna"
+    ],
+    "confidence": 34.5,
+    "low_confidence_warning": true,
+    "image_path": "/static/uploads/1746180020_OIP_2.jpeg",
+    "annotated_image_path": "/static/uploads/annotated_1746180020_OIP_2.jpeg",
+    "description": "This X-ray is a Wrist radiograph. Bones present: Carpals, Distal Radius, Distal Ulna."
+  }
+]

@@ -1,0 +1,665 @@
+image_id,category,bone,fracture_type,fracture_x,fracture_y,severity,source
+IMG0000019.jpg,Wrist,Distal Radius,Simple,1132,1398,50,FracAtlas
+IMG0000025.jpg,Wrist,Distal Radius,Simple,862,1028,50,FracAtlas
+IMG0000044.jpg,Wrist,Distal Radius,Simple,1364,1421,50,FracAtlas
+IMG0000057.jpg,Wrist,Distal Radius,Simple,1426,1409,50,FracAtlas
+IMG0000058.jpg,Wrist,Distal Radius,Simple,1514,1448,50,FracAtlas
+IMG0000059.jpg,Wrist,Distal Radius,Simple,1657,1048,50,FracAtlas
+IMG0000100.jpg,Wrist,Distal Radius,Simple,958,1392,50,FracAtlas
+IMG0000142.jpg,Wrist,Distal Radius,Simple,1564,1485,50,FracAtlas
+IMG0000143.jpg,Wrist,Distal Radius,Simple,1453,1421,50,FracAtlas
+IMG0000144.jpg,Wrist,Distal Radius,Simple,1490,1384,50,FracAtlas
+IMG0000155.jpg,Wrist,Distal Radius,Simple,1200,1461,50,FracAtlas
+IMG0000156.jpg,Wrist,Distal Radius,Simple,1183,1469,50,FracAtlas
+IMG0000188.jpg,Wrist,Distal Radius,Simple,781,1503,50,FracAtlas
+IMG0000189.jpg,Wrist,Distal Radius,Simple,1117,1405,50,FracAtlas
+IMG0000190.jpg,Wrist,Distal Radius,Simple,1603,1287,50,FracAtlas
+IMG0000206.jpg,Wrist,Distal Radius,Simple,1163,1496,50,FracAtlas
+IMG0000207.jpg,Wrist,Distal Radius,Simple,1161,1482,50,FracAtlas
+IMG0000261.jpg,Wrist,Distal Radius,Comminuted,898,1025,80,FracAtlas
+IMG0000284.jpg,Wrist,Distal Radius,Comminuted,228,173,80,FracAtlas
+IMG0000307.jpg,Wrist,Distal Radius,Comminuted,185,235,80,FracAtlas
+IMG0000319.jpg,Wrist,Distal Radius,Simple,225,188,50,FracAtlas
+IMG0000351.jpg,Wrist,Distal Radius,Simple,220,190,50,FracAtlas
+IMG0000352.jpg,Wrist,Distal Radius,Simple,184,222,50,FracAtlas
+IMG0000470.jpg,Wrist,Distal Radius,Simple,179,237,50,FracAtlas
+IMG0000599.jpg,Wrist,Distal Radius,Simple,222,191,50,FracAtlas
+IMG0000600.jpg,Wrist,Distal Radius,Simple,185,215,50,FracAtlas
+IMG0000671.jpg,Wrist,Distal Radius,Comminuted,94,203,80,FracAtlas
+IMG0000692.jpg,Wrist,Distal Radius,Comminuted,186,198,80,FracAtlas
+IMG0000702.jpg,Wrist,Distal Radius,Simple,187,224,50,FracAtlas
+IMG0000750.jpg,Wrist,Distal Radius,Simple,185,242,50,FracAtlas
+IMG0000751.jpg,Wrist,Distal Radius,Simple,186,239,50,FracAtlas
+IMG0000758.jpg,Wrist,Distal Radius,Simple,217,193,50,FracAtlas
+IMG0000762.jpg,Wrist,Distal Radius,Simple,116,190,50,FracAtlas
+IMG0000763.jpg,Wrist,Distal Radius,Simple,232,216,50,FracAtlas
+IMG0000801.jpg,Wrist,Distal Radius,Simple,226,186,50,FracAtlas
+IMG0000804.jpg,Wrist,Distal Radius,Simple,228,190,50,FracAtlas
+IMG0000805.jpg,Wrist,Distal Radius,Simple,227,188,50,FracAtlas
+IMG0000822.jpg,Wrist,Distal Radius,Simple,226,257,50,FracAtlas
+IMG0000844.jpg,Wrist,Distal Radius,Simple,190,237,50,FracAtlas
+IMG0000845.jpg,Wrist,Distal Radius,Simple,189,223,50,FracAtlas
+IMG0000851.jpg,Wrist,Distal Radius,Comminuted,227,189,80,FracAtlas
+IMG0000852.jpg,Wrist,Distal Radius,Simple,225,187,50,FracAtlas
+IMG0001007.jpg,Wrist,Distal Radius,Simple,226,189,50,FracAtlas
+IMG0001008.jpg,Wrist,Distal Radius,Simple,228,188,50,FracAtlas
+IMG0001025.jpg,Wrist,Distal Radius,Simple,188,233,50,FracAtlas
+IMG0001026.jpg,Wrist,Distal Radius,Simple,186,234,50,FracAtlas
+IMG0001041.jpg,Wrist,Distal Radius,Simple,222,191,50,FracAtlas
+IMG0001073.jpg,Wrist,Distal Radius,Comminuted,182,221,80,FracAtlas
+IMG0001123.jpg,Wrist,Distal Radius,Comminuted,190,242,80,FracAtlas
+IMG0001147.jpg,Wrist,Distal Radius,Simple,186,234,50,FracAtlas
+IMG0001148.jpg,Wrist,Distal Radius,Simple,188,233,50,FracAtlas
+IMG0001151.jpg,Wrist,Distal Radius,Simple,225,190,50,FracAtlas
+IMG0001152.jpg,Wrist,Distal Radius,Simple,186,208,50,FracAtlas
+IMG0001198.jpg,Wrist,Distal Radius,Simple,222,191,50,FracAtlas
+IMG0001199.jpg,Wrist,Distal Radius,Simple,185,224,50,FracAtlas
+IMG0001200.jpg,Wrist,Distal Radius,Simple,186,234,50,FracAtlas
+IMG0001236.jpg,Wrist,Distal Radius,Comminuted,189,238,80,FracAtlas
+IMG0001360.jpg,Wrist,Distal Radius,Simple,181,230,50,FracAtlas
+IMG0001361.jpg,Wrist,Distal Radius,Simple,247,246,50,FracAtlas
+IMG0001362.jpg,Wrist,Distal Radius,Simple,178,230,50,FracAtlas
+IMG0001363.jpg,Wrist,Distal Radius,Simple,178,225,50,FracAtlas
+IMG0001364.jpg,Wrist,Distal Radius,Simple,178,229,50,FracAtlas
+IMG0001365.jpg,Wrist,Distal Radius,Simple,180,229,50,FracAtlas
+IMG0001366.jpg,Wrist,Distal Radius,Simple,182,235,50,FracAtlas
+IMG0001367.jpg,Wrist,Distal Radius,Simple,239,269,50,FracAtlas
+IMG0001380.jpg,Wrist,Distal Radius,Simple,182,217,50,FracAtlas
+IMG0001381.jpg,Wrist,Distal Radius,Simple,186,226,50,FracAtlas
+IMG0001382.jpg,Wrist,Distal Radius,Simple,191,232,50,FracAtlas
+IMG0001391.jpg,Wrist,Distal Radius,Simple,186,217,50,FracAtlas
+IMG0001392.jpg,Wrist,Distal Radius,Simple,230,197,50,FracAtlas
+IMG0001410.jpg,Wrist,Distal Radius,Comminuted,186,232,80,FracAtlas
+IMG0001411.jpg,Wrist,Distal Radius,Simple,185,227,50,FracAtlas
+IMG0001428.jpg,Wrist,Distal Radius,Comminuted,257,205,80,FracAtlas
+IMG0001440.jpg,Wrist,Distal Radius,Simple,187,242,50,FracAtlas
+IMG0001441.jpg,Wrist,Distal Radius,Simple,185,241,50,FracAtlas
+IMG0001494.jpg,Wrist,Distal Radius,Simple,183,234,50,FracAtlas
+IMG0001495.jpg,Wrist,Distal Radius,Simple,184,234,50,FracAtlas
+IMG0001546.jpg,Wrist,Distal Radius,Simple,203,179,50,FracAtlas
+IMG0001570.jpg,Wrist,Distal Radius,Simple,181,236,50,FracAtlas
+IMG0001571.jpg,Wrist,Distal Radius,Simple,183,232,50,FracAtlas
+IMG0001572.jpg,Wrist,Distal Radius,Simple,182,239,50,FracAtlas
+IMG0001639.jpg,Wrist,Distal Radius,Simple,185,229,50,FracAtlas
+IMG0001640.jpg,Wrist,Distal Radius,Simple,185,225,50,FracAtlas
+IMG0001710.jpg,Wrist,Distal Radius,Simple,163,185,50,FracAtlas
+IMG0001730.jpg,Wrist,Distal Radius,Comminuted,89,227,80,FracAtlas
+IMG0001731.jpg,Wrist,Distal Radius,Comminuted,113,248,80,FracAtlas
+IMG0001738.jpg,Wrist,Distal Radius,Simple,195,231,50,FracAtlas
+IMG0001739.jpg,Wrist,Distal Radius,Simple,186,229,50,FracAtlas
+IMG0001760.jpg,Wrist,Distal Radius,Comminuted,185,219,80,FracAtlas
+IMG0001762.jpg,Wrist,Distal Radius,Simple,186,202,50,FracAtlas
+IMG0001763.jpg,Wrist,Distal Radius,Simple,184,221,50,FracAtlas
+IMG0001780.jpg,Wrist,Distal Radius,Comminuted,224,189,80,FracAtlas
+IMG0001781.jpg,Wrist,Distal Radius,Simple,190,220,50,FracAtlas
+IMG0001805.jpg,Wrist,Distal Radius,Simple,189,242,50,FracAtlas
+IMG0001933.jpg,Wrist,Distal Radius,Simple,185,223,50,FracAtlas
+IMG0001934.jpg,Wrist,Distal Radius,Simple,185,219,50,FracAtlas
+IMG0001938.jpg,Wrist,Distal Radius,Simple,182,234,50,FracAtlas
+IMG0001939.jpg,Wrist,Distal Radius,Simple,187,236,50,FracAtlas
+IMG0001948.jpg,Wrist,Distal Radius,Simple,231,135,50,FracAtlas
+IMG0001964.jpg,Wrist,Distal Radius,Simple,155,186,50,FracAtlas
+IMG0001965.jpg,Wrist,Distal Radius,Simple,127,223,50,FracAtlas
+IMG0001970.jpg,Wrist,Distal Radius,Simple,183,232,50,FracAtlas
+IMG0001971.jpg,Wrist,Distal Radius,Simple,269,223,50,FracAtlas
+IMG0002020.jpg,Wrist,Distal Radius,Simple,185,234,50,FracAtlas
+IMG0002021.jpg,Wrist,Distal Radius,Simple,186,233,50,FracAtlas
+IMG0002085.jpg,Wrist,Distal Radius,Simple,185,219,50,FracAtlas
+IMG0002086.jpg,Wrist,Distal Radius,Comminuted,145,199,80,FracAtlas
+IMG0002105.jpg,Wrist,Distal Radius,Simple,185,223,50,FracAtlas
+IMG0002106.jpg,Wrist,Distal Radius,Simple,227,191,50,FracAtlas
+IMG0002126.jpg,Wrist,Distal Radius,Simple,185,218,50,FracAtlas
+IMG0002127.jpg,Wrist,Distal Radius,Simple,185,217,50,FracAtlas
+IMG0002148.jpg,Wrist,Distal Radius,Simple,188,239,50,FracAtlas
+IMG0002181.jpg,Wrist,Distal Radius,Comminuted,186,210,80,FracAtlas
+IMG0002208.jpg,Wrist,Distal Radius,Comminuted,84,254,80,FracAtlas
+IMG0002225.jpg,Wrist,Distal Radius,Comminuted,187,238,80,FracAtlas
+IMG0002265.jpg,Wrist,Distal Radius,Comminuted,227,171,80,FracAtlas
+IMG0002272.jpg,Wrist,Distal Radius,Comminuted,182,218,80,FracAtlas
+IMG0002274.jpg,Wrist,Distal Radius,Comminuted,188,224,80,FracAtlas
+IMG0002287.jpg,Wrist,Distal Radius,Comminuted,187,218,80,FracAtlas
+IMG0002298.jpg,Wrist,Distal Radius,Comminuted,870,924,80,FracAtlas
+IMG0002299.jpg,Wrist,Distal Radius,Comminuted,898,1025,80,FracAtlas
+IMG0002300.jpg,Wrist,Distal Radius,Comminuted,898,1025,80,FracAtlas
+IMG0002302.jpg,Shoulder,Clavicle,Simple,1677,1198,50,FracAtlas
+IMG0002303.jpg,Shoulder,Clavicle,Simple,1414,569,50,FracAtlas
+IMG0002304.jpg,Shoulder,Clavicle,Simple,1544,1236,50,FracAtlas
+IMG0002305.jpg,Shoulder,Clavicle,Simple,1411,575,50,FracAtlas
+IMG0002306.jpg,Shoulder,Clavicle,Simple,1565,1218,50,FracAtlas
+IMG0002309.jpg,Wrist,Distal Radius,Simple,1156,1460,50,FracAtlas
+IMG0002310.jpg,Wrist,Distal Radius,Simple,805,1067,50,FracAtlas
+IMG0002311.jpg,Wrist,Distal Radius,Simple,1144,1477,50,FracAtlas
+IMG0002312.jpg,Wrist,Distal Radius,Simple,1151,1452,50,FracAtlas
+IMG0002313.jpg,Wrist,Distal Radius,Simple,1137,1528,50,FracAtlas
+IMG0002314.jpg,Wrist,Distal Radius,Simple,1283,1047,50,FracAtlas
+IMG0002315.jpg,Wrist,Distal Radius,Simple,1098,1561,50,FracAtlas
+IMG0002316.jpg,Wrist,Distal Radius,Simple,1432,1405,50,FracAtlas
+IMG0002317.jpg,Wrist,Distal Radius,Simple,1389,1502,50,FracAtlas
+IMG0002318.jpg,Wrist,Distal Radius,Comminuted,1494,1512,80,FracAtlas
+IMG0002319.jpg,Wrist,Distal Radius,Comminuted,1409,1458,80,FracAtlas
+IMG0002323.jpg,Wrist,Distal Radius,Comminuted,1127,1617,80,FracAtlas
+IMG0002324.jpg,Wrist,Distal Radius,Simple,1586,1375,50,FracAtlas
+IMG0002325.jpg,Wrist,Distal Radius,Comminuted,1206,1503,80,FracAtlas
+IMG0002326.jpg,Wrist,Distal Radius,Simple,1385,1387,50,FracAtlas
+IMG0002327.jpg,Wrist,Distal Radius,Comminuted,1006,1488,80,FracAtlas
+IMG0002328.jpg,Wrist,Distal Radius,Comminuted,1078,1408,80,FracAtlas
+IMG0002329.jpg,Wrist,Distal Radius,Comminuted,1096,1387,80,FracAtlas
+IMG0002330.jpg,Wrist,Distal Radius,Simple,1414,1496,50,FracAtlas
+IMG0002331.jpg,Wrist,Distal Radius,Simple,1632,1159,50,FracAtlas
+IMG0002332.jpg,Wrist,Distal Radius,Simple,1438,1094,50,FracAtlas
+IMG0002333.jpg,Wrist,Distal Radius,Simple,1331,1217,50,FracAtlas
+IMG0002334.jpg,Wrist,Distal Radius,Simple,1293,1345,50,FracAtlas
+IMG0002335.jpg,Wrist,Distal Radius,Simple,1355,810,50,FracAtlas
+IMG0002336.jpg,Wrist,Distal Radius,Simple,1854,1391,50,FracAtlas
+IMG0002349.jpg,Wrist,Distal Radius,Simple,1146,1446,50,FracAtlas
+IMG0002350.jpg,Wrist,Distal Radius,Simple,1136,1427,50,FracAtlas
+IMG0002351.jpg,Wrist,Distal Radius,Simple,1460,1439,50,FracAtlas
+IMG0002352.jpg,Wrist,Distal Radius,Simple,1219,1376,50,FracAtlas
+IMG0002353.jpg,Wrist,Distal Radius,Simple,1108,1504,50,FracAtlas
+IMG0002354.jpg,Wrist,Distal Radius,Simple,1141,1452,50,FracAtlas
+IMG0002355.jpg,Wrist,Distal Radius,Simple,1151,1437,50,FracAtlas
+IMG0002356.jpg,Wrist,Distal Radius,Simple,1144,1455,50,FracAtlas
+IMG0002357.jpg,Wrist,Distal Radius,Simple,1179,1472,50,FracAtlas
+IMG0002358.jpg,Wrist,Distal Radius,Simple,1180,1476,50,FracAtlas
+IMG0002359.jpg,Wrist,Distal Radius,Simple,923,1569,50,FracAtlas
+IMG0002360.jpg,Wrist,Distal Radius,Simple,827,1064,50,FracAtlas
+IMG0002361.jpg,Wrist,Distal Radius,Simple,1211,1488,50,FracAtlas
+IMG0002362.jpg,Wrist,Distal Radius,Simple,914,1118,50,FracAtlas
+IMG0002363.jpg,Wrist,Distal Radius,Simple,1145,1450,50,FracAtlas
+IMG0002364.jpg,Wrist,Distal Radius,Simple,1449,1182,50,FracAtlas
+IMG0002365.jpg,Wrist,Distal Radius,Simple,782,1207,50,FracAtlas
+IMG0002375.jpg,Wrist,Distal Radius,Comminuted,932,1402,80,FracAtlas
+IMG0002376.jpg,Wrist,Distal Radius,Simple,1119,1370,50,FracAtlas
+IMG0002377.jpg,Wrist,Distal Radius,Simple,1131,1368,50,FracAtlas
+IMG0002379.jpg,Wrist,Distal Radius,Comminuted,870,924,80,FracAtlas
+IMG0002380.jpg,Wrist,Distal Radius,Comminuted,187,230,80,FracAtlas
+IMG0002381.jpg,Wrist,Distal Radius,Comminuted,129,211,80,FracAtlas
+IMG0002382.jpg,Wrist,Distal Radius,Comminuted,234,210,80,FracAtlas
+IMG0002385.jpg,Wrist,Distal Radius,Comminuted,221,195,80,FracAtlas
+IMG0002386.jpg,Wrist,Distal Radius,Simple,192,199,50,FracAtlas
+IMG0002388.jpg,Wrist,Distal Radius,Comminuted,215,178,80,FracAtlas
+IMG0002392.jpg,Wrist,Distal Radius,Comminuted,185,227,80,FracAtlas
+IMG0002393.jpg,Wrist,Distal Radius,Comminuted,255,233,80,FracAtlas
+IMG0002394.jpg,Wrist,Distal Radius,Comminuted,181,248,80,FracAtlas
+IMG0002395.jpg,Wrist,Distal Radius,Comminuted,288,184,80,FracAtlas
+IMG0002396.jpg,Wrist,Distal Radius,Simple,178,107,50,FracAtlas
+IMG0002397.jpg,Wrist,Distal Radius,Comminuted,187,208,80,FracAtlas
+IMG0002398.jpg,Wrist,Distal Radius,Comminuted,241,192,80,FracAtlas
+IMG0002402.jpg,Wrist,Distal Radius,Comminuted,187,203,80,FracAtlas
+IMG0002405.jpg,Wrist,Distal Radius,Comminuted,197,232,80,FracAtlas
+IMG0002408.jpg,Wrist,Distal Radius,Simple,182,237,50,FracAtlas
+IMG0002409.jpg,Wrist,Distal Radius,Simple,184,235,50,FracAtlas
+IMG0002410.jpg,Wrist,Distal Radius,Comminuted,185,220,80,FracAtlas
+IMG0002411.jpg,Wrist,Distal Radius,Comminuted,191,217,80,FracAtlas
+IMG0002412.jpg,Wrist,Distal Radius,Comminuted,95,221,80,FracAtlas
+IMG0002413.jpg,Wrist,Distal Radius,Comminuted,210,189,80,FracAtlas
+IMG0002414.jpg,Wrist,Distal Radius,Comminuted,225,189,80,FracAtlas
+IMG0002415.jpg,Wrist,Distal Radius,Simple,185,235,50,FracAtlas
+IMG0002416.jpg,Wrist,Distal Radius,Simple,185,230,50,FracAtlas
+IMG0002419.jpg,Wrist,Distal Radius,Simple,183,240,50,FracAtlas
+IMG0002420.jpg,Wrist,Distal Radius,Simple,183,230,50,FracAtlas
+IMG0002421.jpg,Wrist,Distal Radius,Comminuted,291,222,80,FracAtlas
+IMG0002422.jpg,Wrist,Distal Radius,Comminuted,184,233,80,FracAtlas
+IMG0002423.jpg,Wrist,Distal Radius,Simple,273,232,50,FracAtlas
+IMG0002425.jpg,Wrist,Distal Radius,Comminuted,182,217,80,FracAtlas
+IMG0002427.jpg,Wrist,Distal Radius,Simple,245,179,50,FracAtlas
+IMG0002441.jpg,Wrist,Distal Radius,Comminuted,180,239,80,FracAtlas
+IMG0002442.jpg,Wrist,Distal Radius,Simple,180,233,50,FracAtlas
+IMG0002445.jpg,Wrist,Distal Radius,Comminuted,224,191,80,FracAtlas
+IMG0002446.jpg,Wrist,Distal Radius,Comminuted,224,188,80,FracAtlas
+IMG0002450.jpg,Wrist,Distal Radius,Simple,253,185,50,FracAtlas
+IMG0002460.jpg,Wrist,Distal Radius,Simple,156,178,50,FracAtlas
+IMG0002461.jpg,Wrist,Distal Radius,Simple,153,189,50,FracAtlas
+IMG0002463.jpg,Wrist,Distal Radius,Comminuted,198,226,80,FracAtlas
+IMG0002464.jpg,Wrist,Distal Radius,Simple,234,155,50,FracAtlas
+IMG0002465.jpg,Wrist,Distal Radius,Simple,185,208,50,FracAtlas
+IMG0002466.jpg,Wrist,Distal Radius,Simple,240,236,50,FracAtlas
+IMG0002467.jpg,Wrist,Distal Radius,Comminuted,184,195,80,FracAtlas
+IMG0002468.jpg,Wrist,Distal Radius,Simple,227,194,50,FracAtlas
+IMG0002469.jpg,Wrist,Distal Radius,Simple,223,191,50,FracAtlas
+IMG0002470.jpg,Wrist,Distal Radius,Simple,189,225,50,FracAtlas
+IMG0002478.jpg,Wrist,Distal Radius,Simple,160,219,50,FracAtlas
+IMG0002479.jpg,Wrist,Distal Radius,Simple,156,164,50,FracAtlas
+IMG0002480.jpg,Wrist,Distal Radius,Simple,232,191,50,FracAtlas
+IMG0002481.jpg,Wrist,Distal Radius,Simple,184,233,50,FracAtlas
+IMG0002482.jpg,Wrist,Distal Radius,Simple,131,214,50,FracAtlas
+IMG0002483.jpg,Wrist,Distal Radius,Comminuted,186,215,80,FracAtlas
+IMG0002484.jpg,Wrist,Distal Radius,Comminuted,177,227,80,FracAtlas
+IMG0002485.jpg,Wrist,Distal Radius,Simple,162,201,50,FracAtlas
+IMG0002486.jpg,Wrist,Distal Radius,Comminuted,226,191,80,FracAtlas
+IMG0002487.jpg,Wrist,Distal Radius,Simple,226,187,50,FracAtlas
+IMG0002488.jpg,Wrist,Distal Radius,Simple,178,222,50,FracAtlas
+IMG0002491.jpg,Wrist,Distal Radius,Simple,228,220,50,FracAtlas
+IMG0002492.jpg,Wrist,Distal Radius,Simple,183,229,50,FracAtlas
+IMG0002493.jpg,Wrist,Distal Radius,Simple,185,222,50,FracAtlas
+IMG0002494.jpg,Wrist,Distal Radius,Simple,236,234,50,FracAtlas
+IMG0002495.jpg,Wrist,Distal Radius,Simple,186,213,50,FracAtlas
+IMG0002496.jpg,Wrist,Distal Radius,Simple,186,194,50,FracAtlas
+IMG0002497.jpg,Wrist,Distal Radius,Simple,188,236,50,FracAtlas
+IMG0002498.jpg,Wrist,Distal Radius,Simple,188,233,50,FracAtlas
+IMG0002499.jpg,Wrist,Distal Radius,Simple,229,200,50,FracAtlas
+IMG0002500.jpg,Wrist,Distal Radius,Simple,213,236,50,FracAtlas
+IMG0002501.jpg,Wrist,Distal Radius,Simple,267,235,50,FracAtlas
+IMG0002502.jpg,Wrist,Distal Radius,Simple,215,196,50,FracAtlas
+IMG0002503.jpg,Wrist,Distal Radius,Simple,81,186,50,FracAtlas
+IMG0002504.jpg,Wrist,Distal Radius,Simple,145,210,50,FracAtlas
+IMG0002505.jpg,Wrist,Distal Radius,Comminuted,187,224,80,FracAtlas
+IMG0002508.jpg,Wrist,Distal Radius,Comminuted,183,231,80,FracAtlas
+IMG0002512.jpg,Wrist,Distal Radius,Simple,220,284,50,FracAtlas
+IMG0002516.jpg,Wrist,Distal Radius,Simple,178,227,50,FracAtlas
+IMG0002517.jpg,Wrist,Distal Radius,Simple,215,262,50,FracAtlas
+IMG0002518.jpg,Wrist,Distal Radius,Simple,178,228,50,FracAtlas
+IMG0002519.jpg,Wrist,Distal Radius,Simple,186,320,50,FracAtlas
+IMG0002524.jpg,Wrist,Distal Radius,Comminuted,185,224,80,FracAtlas
+IMG0002525.jpg,Wrist,Distal Radius,Simple,185,223,50,FracAtlas
+IMG0002529.jpg,Wrist,Distal Radius,Simple,228,191,50,FracAtlas
+IMG0002530.jpg,Wrist,Distal Radius,Simple,228,191,50,FracAtlas
+IMG0002531.jpg,Wrist,Distal Radius,Simple,188,228,50,FracAtlas
+IMG0002532.jpg,Wrist,Distal Radius,Simple,99,193,50,FracAtlas
+IMG0002546.jpg,Wrist,Distal Radius,Simple,102,237,50,FracAtlas
+IMG0002547.jpg,Wrist,Distal Radius,Simple,117,223,50,FracAtlas
+IMG0002548.jpg,Wrist,Distal Radius,Simple,127,212,50,FracAtlas
+IMG0002551.jpg,Wrist,Distal Radius,Comminuted,225,190,80,FracAtlas
+IMG0002552.jpg,Wrist,Distal Radius,Simple,209,185,50,FracAtlas
+IMG0002553.jpg,Wrist,Distal Radius,Simple,228,193,50,FracAtlas
+IMG0002560.jpg,Wrist,Distal Radius,Comminuted,193,226,80,FracAtlas
+IMG0002561.jpg,Wrist,Distal Radius,Comminuted,187,215,80,FracAtlas
+IMG0002564.jpg,Wrist,Distal Radius,Comminuted,90,245,80,FracAtlas
+IMG0002565.jpg,Wrist,Distal Radius,Comminuted,183,243,80,FracAtlas
+IMG0002566.jpg,Wrist,Distal Radius,Comminuted,240,173,80,FracAtlas
+IMG0002568.jpg,Wrist,Distal Radius,Comminuted,190,220,80,FracAtlas
+IMG0002569.jpg,Wrist,Distal Radius,Comminuted,187,198,80,FracAtlas
+IMG0002573.jpg,Wrist,Distal Radius,Comminuted,194,213,80,FracAtlas
+IMG0002574.jpg,Wrist,Distal Radius,Comminuted,143,236,80,FracAtlas
+IMG0002575.jpg,Wrist,Distal Radius,Comminuted,184,213,80,FracAtlas
+IMG0002576.jpg,Wrist,Distal Radius,Comminuted,186,235,80,FracAtlas
+IMG0002579.jpg,Wrist,Distal Radius,Simple,299,200,50,FracAtlas
+IMG0002580.jpg,Wrist,Distal Radius,Simple,162,213,50,FracAtlas
+IMG0002581.jpg,Wrist,Distal Radius,Comminuted,233,247,80,FracAtlas
+IMG0002582.jpg,Wrist,Distal Radius,Simple,282,229,50,FracAtlas
+IMG0002583.jpg,Wrist,Distal Radius,Simple,188,245,50,FracAtlas
+IMG0002584.jpg,Wrist,Distal Radius,Simple,83,234,50,FracAtlas
+IMG0002585.jpg,Wrist,Distal Radius,Comminuted,180,214,80,FracAtlas
+IMG0002597.jpg,Wrist,Distal Radius,Simple,151,188,50,FracAtlas
+IMG0002599.jpg,Wrist,Distal Radius,Comminuted,230,176,80,FracAtlas
+IMG0002600.jpg,Wrist,Distal Radius,Simple,186,248,50,FracAtlas
+IMG0002601.jpg,Wrist,Distal Radius,Simple,186,228,50,FracAtlas
+IMG0002602.jpg,Wrist,Distal Radius,Simple,184,221,50,FracAtlas
+IMG0002603.jpg,Wrist,Distal Radius,Simple,185,213,50,FracAtlas
+IMG0002604.jpg,Wrist,Distal Radius,Simple,258,209,50,FracAtlas
+IMG0002605.jpg,Wrist,Distal Radius,Simple,221,192,50,FracAtlas
+IMG0002606.jpg,Wrist,Distal Radius,Simple,185,222,50,FracAtlas
+IMG0002609.jpg,Wrist,Distal Radius,Comminuted,182,212,80,FracAtlas
+IMG0002610.jpg,Wrist,Distal Radius,Simple,185,207,50,FracAtlas
+IMG0002611.jpg,Wrist,Distal Radius,Simple,104,248,50,FracAtlas
+IMG0002612.jpg,Wrist,Distal Radius,Simple,129,207,50,FracAtlas
+IMG0002614.jpg,Wrist,Distal Radius,Simple,189,230,50,FracAtlas
+IMG0002615.jpg,Wrist,Distal Radius,Simple,184,221,50,FracAtlas
+IMG0002619.jpg,Wrist,Distal Radius,Simple,146,198,50,FracAtlas
+IMG0002620.jpg,Shoulder,Clavicle,Simple,138,213,50,FracAtlas
+IMG0002621.jpg,Shoulder,Clavicle,Simple,160,188,50,FracAtlas
+IMG0002622.jpg,Shoulder,Clavicle,Simple,136,90,50,FracAtlas
+IMG0002627.jpg,Shoulder,Clavicle,Simple,285,208,50,FracAtlas
+IMG0002628.jpg,Shoulder,Clavicle,Simple,314,246,50,FracAtlas
+IMG0002646.jpg,Wrist,Distal Radius,Simple,210,196,50,FracAtlas
+IMG0002647.jpg,Wrist,Distal Radius,Simple,212,195,50,FracAtlas
+IMG0002652.jpg,Wrist,Distal Radius,Simple,187,231,50,FracAtlas
+IMG0002653.jpg,Wrist,Distal Radius,Simple,186,219,50,FracAtlas
+IMG0002664.jpg,Wrist,Distal Radius,Simple,257,188,50,FracAtlas
+IMG0002668.jpg,Wrist,Distal Radius,Simple,128,212,50,FracAtlas
+IMG0002737.jpg,Wrist,Distal Radius,Simple,182,230,50,FracAtlas
+IMG0002738.jpg,Wrist,Distal Radius,Simple,185,221,50,FracAtlas
+IMG0002745.jpg,Wrist,Distal Radius,Comminuted,185,218,80,FracAtlas
+IMG0002746.jpg,Wrist,Distal Radius,Comminuted,147,208,80,FracAtlas
+IMG0002809.jpg,Wrist,Distal Radius,Simple,185,237,50,FracAtlas
+IMG0002810.jpg,Wrist,Distal Radius,Simple,184,228,50,FracAtlas
+IMG0002831.jpg,Wrist,Distal Radius,Comminuted,186,194,80,FracAtlas
+IMG0002832.jpg,Wrist,Distal Radius,Simple,271,201,50,FracAtlas
+IMG0002833.jpg,Wrist,Distal Radius,Simple,184,212,50,FracAtlas
+IMG0002834.jpg,Wrist,Distal Radius,Simple,192,205,50,FracAtlas
+IMG0002848.jpg,Wrist,Distal Radius,Simple,183,236,50,FracAtlas
+IMG0002849.jpg,Wrist,Distal Radius,Simple,184,239,50,FracAtlas
+IMG0002885.jpg,Wrist,Distal Radius,Simple,185,228,50,FracAtlas
+IMG0002886.jpg,Wrist,Distal Radius,Simple,185,220,50,FracAtlas
+IMG0002904.jpg,Wrist,Distal Radius,Simple,193,203,50,FracAtlas
+IMG0002905.jpg,Wrist,Distal Radius,Simple,246,233,50,FracAtlas
+IMG0002934.jpg,Wrist,Distal Radius,Simple,184,219,50,FracAtlas
+IMG0002935.jpg,Wrist,Distal Radius,Simple,184,219,50,FracAtlas
+IMG0002979.jpg,Wrist,Distal Radius,Simple,160,222,50,FracAtlas
+IMG0002980.jpg,Wrist,Distal Radius,Simple,193,223,50,FracAtlas
+IMG0002987.jpg,Wrist,Distal Radius,Simple,155,225,50,FracAtlas
+IMG0002998.jpg,Wrist,Distal Radius,Simple,185,216,50,FracAtlas
+IMG0002999.jpg,Wrist,Distal Radius,Simple,184,211,50,FracAtlas
+IMG0003000.jpg,Wrist,Distal Radius,Simple,282,222,50,FracAtlas
+IMG0003001.jpg,Wrist,Distal Radius,Simple,275,249,50,FracAtlas
+IMG0003034.jpg,Wrist,Distal Radius,Simple,231,186,50,FracAtlas
+IMG0003035.jpg,Wrist,Distal Radius,Simple,157,188,50,FracAtlas
+IMG0003070.jpg,Wrist,Distal Radius,Simple,185,221,50,FracAtlas
+IMG0003093.jpg,Wrist,Distal Radius,Comminuted,181,230,80,FracAtlas
+IMG0003094.jpg,Wrist,Distal Radius,Simple,184,225,50,FracAtlas
+IMG0003101.jpg,Wrist,Distal Radius,Simple,185,226,50,FracAtlas
+IMG0003102.jpg,Wrist,Distal Radius,Simple,187,223,50,FracAtlas
+IMG0003111.jpg,Wrist,Distal Radius,Simple,184,238,50,FracAtlas
+IMG0003112.jpg,Wrist,Distal Radius,Simple,186,225,50,FracAtlas
+IMG0003121.jpg,Wrist,Distal Radius,Simple,183,221,50,FracAtlas
+IMG0003157.jpg,Wrist,Distal Radius,Simple,185,192,50,FracAtlas
+IMG0003164.jpg,Wrist,Distal Radius,Simple,185,222,50,FracAtlas
+IMG0003165.jpg,Wrist,Distal Radius,Simple,184,223,50,FracAtlas
+IMG0003171.jpg,Wrist,Distal Radius,Simple,190,233,50,FracAtlas
+IMG0003172.jpg,Wrist,Distal Radius,Simple,184,234,50,FracAtlas
+IMG0003199.jpg,Wrist,Distal Radius,Comminuted,218,183,80,FracAtlas
+IMG0003200.jpg,Wrist,Distal Radius,Simple,185,188,50,FracAtlas
+IMG0003201.jpg,Wrist,Distal Radius,Simple,216,189,50,FracAtlas
+IMG0003213.jpg,Wrist,Distal Radius,Simple,182,213,50,FracAtlas
+IMG0003214.jpg,Wrist,Distal Radius,Simple,228,194,50,FracAtlas
+IMG0003217.jpg,Wrist,Distal Radius,Simple,186,229,50,FracAtlas
+IMG0003218.jpg,Wrist,Distal Radius,Simple,186,225,50,FracAtlas
+IMG0003233.jpg,Wrist,Distal Radius,Simple,181,233,50,FracAtlas
+IMG0003234.jpg,Wrist,Distal Radius,Simple,182,227,50,FracAtlas
+IMG0003264.jpg,Wrist,Distal Radius,Simple,217,230,50,FracAtlas
+IMG0003265.jpg,Wrist,Distal Radius,Simple,235,225,50,FracAtlas
+IMG0003266.jpg,Wrist,Distal Radius,Simple,186,235,50,FracAtlas
+IMG0003267.jpg,Wrist,Distal Radius,Simple,185,236,50,FracAtlas
+IMG0003279.jpg,Wrist,Distal Radius,Simple,186,234,50,FracAtlas
+IMG0003280.jpg,Wrist,Distal Radius,Simple,186,233,50,FracAtlas
+IMG0003293.jpg,Wrist,Distal Radius,Simple,188,230,50,FracAtlas
+IMG0003294.jpg,Wrist,Distal Radius,Simple,183,232,50,FracAtlas
+IMG0003298.jpg,Wrist,Distal Radius,Simple,178,233,50,FracAtlas
+IMG0003301.jpg,Wrist,Distal Radius,Simple,184,222,50,FracAtlas
+IMG0003310.jpg,Wrist,Distal Radius,Simple,213,238,50,FracAtlas
+IMG0003311.jpg,Wrist,Distal Radius,Simple,203,236,50,FracAtlas
+IMG0003312.jpg,Wrist,Distal Radius,Simple,186,238,50,FracAtlas
+IMG0003313.jpg,Wrist,Distal Radius,Simple,187,235,50,FracAtlas
+IMG0003373.jpg,Wrist,Distal Radius,Comminuted,185,229,80,FracAtlas
+IMG0003374.jpg,Wrist,Distal Radius,Simple,180,229,50,FracAtlas
+IMG0003381.jpg,Wrist,Distal Radius,Simple,188,222,50,FracAtlas
+IMG0003382.jpg,Wrist,Distal Radius,Simple,187,221,50,FracAtlas
+IMG0003383.jpg,Wrist,Distal Radius,Simple,187,237,50,FracAtlas
+IMG0003394.jpg,Wrist,Distal Radius,Comminuted,185,212,80,FracAtlas
+IMG0003395.jpg,Wrist,Distal Radius,Comminuted,177,227,80,FracAtlas
+IMG0003396.jpg,Wrist,Distal Radius,Simple,184,221,50,FracAtlas
+IMG0003397.jpg,Wrist,Distal Radius,Simple,185,220,50,FracAtlas
+IMG0003398.jpg,Wrist,Distal Radius,Simple,185,215,50,FracAtlas
+IMG0003399.jpg,Wrist,Distal Radius,Simple,185,236,50,FracAtlas
+IMG0003419.jpg,Wrist,Distal Radius,Simple,185,229,50,FracAtlas
+IMG0003420.jpg,Wrist,Distal Radius,Simple,245,233,50,FracAtlas
+IMG0003477.jpg,Wrist,Distal Radius,Simple,256,203,50,FracAtlas
+IMG0003509.jpg,Wrist,Distal Radius,Simple,181,237,50,FracAtlas
+IMG0003510.jpg,Wrist,Distal Radius,Simple,181,238,50,FracAtlas
+IMG0003564.jpg,Wrist,Distal Radius,Simple,184,220,50,FracAtlas
+IMG0003565.jpg,Wrist,Distal Radius,Simple,185,221,50,FracAtlas
+IMG0003586.jpg,Wrist,Distal Radius,Comminuted,185,221,80,FracAtlas
+IMG0003587.jpg,Wrist,Distal Radius,Simple,185,219,50,FracAtlas
+IMG0003619.jpg,Wrist,Distal Radius,Simple,185,219,50,FracAtlas
+IMG0003620.jpg,Wrist,Distal Radius,Simple,193,235,50,FracAtlas
+IMG0003628.jpg,Wrist,Distal Radius,Simple,224,196,50,FracAtlas
+IMG0003653.jpg,Wrist,Distal Radius,Simple,191,231,50,FracAtlas
+IMG0003654.jpg,Wrist,Distal Radius,Simple,185,223,50,FracAtlas
+IMG0003671.jpg,Wrist,Distal Radius,Simple,293,209,50,FracAtlas
+IMG0003712.jpg,Wrist,Distal Radius,Simple,178,227,50,FracAtlas
+IMG0003713.jpg,Wrist,Distal Radius,Simple,193,232,50,FracAtlas
+IMG0003733.jpg,Wrist,Distal Radius,Simple,185,223,50,FracAtlas
+IMG0003734.jpg,Wrist,Distal Radius,Simple,186,221,50,FracAtlas
+IMG0003770.jpg,Wrist,Distal Radius,Simple,186,221,50,FracAtlas
+IMG0003771.jpg,Wrist,Distal Radius,Simple,190,238,50,FracAtlas
+IMG0003774.jpg,Wrist,Distal Radius,Simple,292,198,50,FracAtlas
+IMG0003785.jpg,Wrist,Distal Radius,Comminuted,184,219,80,FracAtlas
+IMG0003786.jpg,Wrist,Distal Radius,Simple,187,223,50,FracAtlas
+IMG0003810.jpg,Wrist,Distal Radius,Simple,209,195,50,FracAtlas
+IMG0003812.jpg,Wrist,Distal Radius,Simple,184,224,50,FracAtlas
+IMG0003813.jpg,Wrist,Distal Radius,Simple,184,219,50,FracAtlas
+IMG0003819.jpg,Wrist,Distal Radius,Simple,199,239,50,FracAtlas
+IMG0003870.jpg,Wrist,Distal Radius,Simple,185,217,50,FracAtlas
+IMG0003871.jpg,Wrist,Distal Radius,Simple,181,221,50,FracAtlas
+IMG0003905.jpg,Wrist,Distal Radius,Comminuted,186,219,80,FracAtlas
+IMG0003906.jpg,Wrist,Distal Radius,Comminuted,185,217,80,FracAtlas
+IMG0003926.jpg,Wrist,Distal Radius,Simple,181,225,50,FracAtlas
+IMG0003927.jpg,Wrist,Distal Radius,Simple,112,208,50,FracAtlas
+IMG0003942.jpg,Wrist,Distal Radius,Simple,184,221,50,FracAtlas
+IMG0003943.jpg,Wrist,Distal Radius,Simple,185,222,50,FracAtlas
+IMG0003952.jpg,Wrist,Distal Radius,Simple,185,242,50,FracAtlas
+IMG0003953.jpg,Wrist,Distal Radius,Simple,180,239,50,FracAtlas
+IMG0004009.jpg,Wrist,Distal Radius,Comminuted,178,231,80,FracAtlas
+IMG0004010.jpg,Wrist,Distal Radius,Comminuted,270,254,80,FracAtlas
+IMG0004042.jpg,Wrist,Distal Radius,Simple,185,215,50,FracAtlas
+IMG0004043.jpg,Wrist,Distal Radius,Comminuted,185,216,80,FracAtlas
+IMG0004044.jpg,Wrist,Distal Radius,Simple,185,216,50,FracAtlas
+IMG0004045.jpg,Wrist,Distal Radius,Simple,184,221,50,FracAtlas
+IMG0004061.jpg,Wrist,Distal Radius,Simple,128,212,50,FracAtlas
+IMG0004067.jpg,Wrist,Distal Radius,Simple,188,238,50,FracAtlas
+IMG0004068.jpg,Wrist,Distal Radius,Simple,186,219,50,FracAtlas
+IMG0004071.jpg,Wrist,Distal Radius,Simple,214,196,50,FracAtlas
+IMG0004072.jpg,Wrist,Distal Radius,Comminuted,211,196,80,FracAtlas
+IMG0004116.jpg,Wrist,Distal Radius,Simple,185,218,50,FracAtlas
+IMG0004117.jpg,Wrist,Distal Radius,Simple,175,226,50,FracAtlas
+IMG0004187.jpg,Wrist,Distal Radius,Simple,193,170,50,FracAtlas
+IMG0004206.jpg,Wrist,Distal Radius,Simple,183,237,50,FracAtlas
+IMG0004207.jpg,Wrist,Distal Radius,Simple,184,239,50,FracAtlas
+IMG0004217.jpg,Wrist,Distal Radius,Simple,184,219,50,FracAtlas
+IMG0004232.jpg,Wrist,Distal Radius,Simple,192,200,50,FracAtlas
+IMG0004233.jpg,Wrist,Distal Radius,Simple,246,233,50,FracAtlas
+IMG0004262.jpg,Wrist,Distal Radius,Simple,182,218,50,FracAtlas
+IMG0004337.jpg,Wrist,Distal Radius,Simple,242,196,50,FracAtlas
+IMG0004349.jpg,Wrist,Distal Radius,Simple,253,208,50,FracAtlas
+IMG0004356.jpg,Wrist,Distal Radius,Simple,222,191,50,FracAtlas
+IMG0004369.jpg,Wrist,Distal Radius,Simple,269,223,50,FracAtlas
+IMG0004370.jpg,Wrist,Distal Radius,Simple,187,256,50,FracAtlas
+IMG0004374.jpg,Wrist,Distal Radius,Simple,185,216,50,FracAtlas
+IMG0004375.jpg,Wrist,Distal Radius,Simple,185,215,50,FracAtlas
+IMG0004376.jpg,Wrist,Distal Radius,Simple,185,216,50,FracAtlas
+MCUCXR_0001_0.png,Chest,Ribs,Simple,200,200,50,Dataset
+MCUCXR_0002_0.png,Chest,Ribs,Simple,200,200,50,Dataset
+MCUCXR_0003_0.png,Chest,Ribs,Simple,200,200,50,Dataset
+MCUCXR_0004_0.png,Chest,Ribs,Simple,200,200,50,Dataset
+MCUCXR_0005_0.png,Chest,Ribs,Simple,200,200,50,Dataset
+MCUCXR_0006_0.png,Chest,Ribs,Simple,200,200,50,Dataset
+MCUCXR_0008_0.png,Chest,Ribs,Simple,200,200,50,Dataset
+MCUCXR_0011_0.png,Chest,Ribs,Simple,200,200,50,Dataset
+MCUCXR_0013_0.png,Chest,Ribs,Simple,200,200,50,Dataset
+MCUCXR_0015_0.png,Chest,Ribs,Simple,200,200,50,Dataset
+MCUCXR_0016_0.png,Chest,Ribs,Simple,200,200,50,Dataset
+MCUCXR_0017_0.png,Chest,Ribs,Simple,200,200,50,Dataset
+MCUCXR_0019_0.png,Chest,Ribs,Simple,200,200,50,Dataset
+MCUCXR_0020_0.png,Chest,Ribs,Simple,200,200,50,Dataset
+MCUCXR_0021_0.png,Chest,Ribs,Simple,200,200,50,Dataset
+MCUCXR_0022_0.png,Chest,Ribs,Simple,200,200,50,Dataset
+MCUCXR_0023_0.png,Chest,Ribs,Simple,200,200,50,Dataset
+MCUCXR_0024_0.png,Chest,Ribs,Simple,94,76,1,Dataset
+MCUCXR_0026_0.png,Chest,Ribs,Simple,200,200,50,Dataset
+MCUCXR_0027_0.png,Chest,Ribs,Simple,200,200,50,Dataset
+MCUCXR_0028_0.png,Chest,Ribs,Simple,200,200,50,Dataset
+MCUCXR_0029_0.png,Chest,Ribs,Simple,200,200,50,Dataset
+MCUCXR_0030_0.png,Chest,Ribs,Simple,200,200,50,Dataset
+MCUCXR_0031_0.png,Chest,Ribs,Simple,200,200,50,Dataset
+MCUCXR_0035_0.png,Chest,Ribs,Simple,200,200,50,Dataset
+MCUCXR_0038_0.png,Chest,Ribs,Simple,202,123,19,Dataset
+MCUCXR_0040_0.png,Chest,Ribs,Simple,200,200,50,Dataset
+MCUCXR_0041_0.png,Chest,Ribs,Simple,200,200,50,Dataset
+MCUCXR_0042_0.png,Chest,Ribs,Simple,200,200,50,Dataset
+MCUCXR_0043_0.png,Chest,Ribs,Simple,200,200,50,Dataset
+MCUCXR_0044_0.png,Chest,Ribs,Simple,200,200,50,Dataset
+MCUCXR_0045_0.png,Chest,Ribs,Simple,200,200,50,Dataset
+MCUCXR_0046_0.png,Chest,Ribs,Simple,200,200,50,Dataset
+MCUCXR_0047_0.png,Chest,Ribs,Simple,200,200,50,Dataset
+MCUCXR_0048_0.png,Chest,Ribs,Simple,200,200,50,Dataset
+MCUCXR_0049_0.png,Chest,Ribs,Simple,200,200,50,Dataset
+MCUCXR_0051_0.png,Chest,Ribs,Simple,200,200,50,Dataset
+MCUCXR_0052_0.png,Chest,Ribs,Simple,200,200,50,Dataset
+MCUCXR_0053_0.png,Chest,Ribs,Simple,200,200,50,Dataset
+MCUCXR_0054_0.png,Chest,Ribs,Simple,200,200,50,Dataset
+MCUCXR_0055_0.png,Chest,Ribs,Simple,200,200,50,Dataset
+MCUCXR_0056_0.png,Chest,Ribs,Simple,200,200,50,Dataset
+MCUCXR_0057_0.png,Chest,Ribs,Simple,200,200,50,Dataset
+MCUCXR_0058_0.png,Chest,Ribs,Simple,200,200,50,Dataset
+MCUCXR_0059_0.png,Chest,Ribs,Simple,200,200,50,Dataset
+MCUCXR_0060_0.png,Chest,Ribs,Simple,200,200,50,Dataset
+MCUCXR_0061_0.png,Chest,Ribs,Simple,200,200,50,Dataset
+MCUCXR_0062_0.png,Chest,Ribs,Simple,200,200,50,Dataset
+MCUCXR_0063_0.png,Chest,Ribs,Simple,200,200,50,Dataset
+MCUCXR_0064_0.png,Chest,Ribs,Simple,200,200,50,Dataset
+MCUCXR_0068_0.png,Chest,Ribs,Simple,173,74,2,Dataset
+MCUCXR_0069_0.png,Chest,Ribs,Simple,200,200,50,Dataset
+MCUCXR_0070_0.png,Chest,Ribs,Simple,200,200,50,Dataset
+MCUCXR_0071_0.png,Chest,Ribs,Simple,200,200,50,Dataset
+MCUCXR_0072_0.png,Chest,Ribs,Simple,200,200,50,Dataset
+1.png,Elbow,Humerus,Simple,200,200,50,Dataset
+10.png,Elbow,Humerus,Simple,200,200,50,Dataset
+11.png,Elbow,Humerus,Simple,200,200,50,Dataset
+12.png,Elbow,Humerus,Simple,200,200,50,Dataset
+13.png,Elbow,Humerus,Simple,200,200,50,Dataset
+14.png,Elbow,Humerus,Simple,200,200,50,Dataset
+15.png,Elbow,Humerus,Simple,200,200,50,Dataset
+16.png,Elbow,Humerus,Simple,200,200,50,Dataset
+17.png,Elbow,Humerus,Simple,200,200,50,Dataset
+18.png,Elbow,Humerus,Simple,200,200,50,Dataset
+19.png,Elbow,Humerus,Simple,200,200,50,Dataset
+2.png,Elbow,Humerus,Simple,200,200,50,Dataset
+20.png,Elbow,Humerus,Simple,200,200,50,Dataset
+3.png,Elbow,Humerus,Simple,200,200,50,Dataset
+4.png,Elbow,Humerus,Simple,200,200,50,Dataset
+5.png,Elbow,Humerus,Simple,200,200,50,Dataset
+6.png,Elbow,Humerus,Simple,200,200,50,Dataset
+7.png,Elbow,Humerus,Simple,200,200,50,Dataset
+8.png,Elbow,Humerus,Simple,200,200,50,Dataset
+9.png,Elbow,Humerus,Simple,200,200,50,Dataset
+1.png,Finger,Phalanges,Simple,200,200,50,Dataset
+10.png,Finger,Phalanges,Simple,200,200,50,Dataset
+11.png,Finger,Phalanges,Simple,200,200,50,Dataset
+12.png,Finger,Phalanges,Simple,200,200,50,Dataset
+13.png,Finger,Phalanges,Simple,200,200,50,Dataset
+14.png,Finger,Phalanges,Simple,200,200,50,Dataset
+15.png,Finger,Phalanges,Simple,200,200,50,Dataset
+16.png,Finger,Phalanges,Simple,200,200,50,Dataset
+17.png,Finger,Phalanges,Simple,200,200,50,Dataset
+18.png,Finger,Phalanges,Simple,200,200,50,Dataset
+19.png,Finger,Phalanges,Simple,200,200,50,Dataset
+2.png,Finger,Phalanges,Simple,200,200,50,Dataset
+20.png,Finger,Phalanges,Simple,200,200,50,Dataset
+21.png,Finger,Phalanges,Simple,200,200,50,Dataset
+3.png,Finger,Phalanges,Simple,200,200,50,Dataset
+4.png,Finger,Phalanges,Simple,200,200,50,Dataset
+5.png,Finger,Phalanges,Simple,200,200,50,Dataset
+6.png,Finger,Phalanges,Simple,200,200,50,Dataset
+7.png,Finger,Phalanges,Simple,200,200,50,Dataset
+8.png,Finger,Phalanges,Simple,200,200,50,Dataset
+9.png,Finger,Phalanges,Simple,200,200,50,Dataset
+1.png,Hand,Metacarpals,Simple,200,200,50,Dataset
+10.png,Hand,Metacarpals,Simple,200,200,50,Dataset
+11.png,Hand,Metacarpals,Simple,200,200,50,Dataset
+12.png,Hand,Metacarpals,Simple,200,200,50,Dataset
+13.png,Hand,Metacarpals,Simple,200,200,50,Dataset
+14.png,Hand,Metacarpals,Simple,200,200,50,Dataset
+15.png,Hand,Metacarpals,Simple,200,200,50,Dataset
+16.png,Hand,Metacarpals,Simple,200,200,50,Dataset
+17.png,Hand,Metacarpals,Simple,200,200,50,Dataset
+18.png,Hand,Metacarpals,Simple,200,200,50,Dataset
+19.png,Hand,Metacarpals,Simple,200,200,50,Dataset
+2.png,Hand,Metacarpals,Simple,200,200,50,Dataset
+20.png,Hand,Metacarpals,Simple,200,200,50,Dataset
+21.png,Hand,Metacarpals,Simple,200,200,50,Dataset
+22.png,Hand,Metacarpals,Simple,197,264,1,Dataset
+23.png,Hand,Metacarpals,Simple,200,200,50,Dataset
+3.png,Hand,Metacarpals,Simple,200,200,50,Dataset
+4.png,Hand,Metacarpals,Simple,200,200,50,Dataset
+5.png,Hand,Metacarpals,Simple,200,200,50,Dataset
+6.png,Hand,Metacarpals,Simple,200,200,50,Dataset
+7.png,Hand,Metacarpals,Simple,200,200,50,Dataset
+8.png,Hand,Metacarpals,Simple,200,200,50,Dataset
+9.png,Hand,Metacarpals,Simple,200,200,50,Dataset
+1 no.jpeg,Head,Skull,Simple,200,200,50,Dataset
+10 no.jpg,Head,Skull,Simple,200,200,50,Dataset
+11 no.jpg,Head,Skull,Simple,200,200,50,Dataset
+12 no.jpg,Head,Skull,Simple,200,200,50,Dataset
+13 no.jpg,Head,Skull,Simple,200,200,50,Dataset
+14 no.jpg,Head,Skull,Simple,200,200,50,Dataset
+15 no.jpg,Head,Skull,Simple,200,200,50,Dataset
+17 no.jpg,Head,Skull,Simple,200,200,50,Dataset
+18 no.jpg,Head,Skull,Simple,200,200,50,Dataset
+19 no.jpg,Head,Skull,Simple,200,200,50,Dataset
+2 no.jpeg,Head,Skull,Simple,200,200,50,Dataset
+20 no.jpg,Head,Skull,Simple,200,200,50,Dataset
+21 no.jpg,Head,Skull,Simple,200,200,50,Dataset
+22 no.jpg,Head,Skull,Simple,200,200,50,Dataset
+23 no.jpg,Head,Skull,Simple,200,200,50,Dataset
+24 no.jpg,Head,Skull,Simple,200,200,50,Dataset
+25 no.jpg,Head,Skull,Simple,200,200,50,Dataset
+26 no.jpg,Head,Skull,Simple,200,200,50,Dataset
+27 no.jpg,Head,Skull,Simple,200,200,50,Dataset
+28 no.jpg,Head,Skull,Simple,200,200,50,Dataset
+29 no.jpg,Head,Skull,Simple,200,200,50,Dataset
+3 no.jpg,Head,Skull,Simple,200,200,50,Dataset
+30 no.jpg,Head,Skull,Simple,200,200,50,Dataset
+31 no.jpg,Head,Skull,Simple,200,200,50,Dataset
+32 no.jpg,Head,Skull,Simple,200,200,50,Dataset
+33 no.jpg,Head,Skull,Simple,200,200,50,Dataset
+34 no.jpg,Head,Skull,Simple,200,200,50,Dataset
+35 no.jpg,Head,Skull,Simple,200,200,50,Dataset
+36 no.jpg,Head,Skull,Simple,200,200,50,Dataset
+37 no.jpg,Head,Skull,Simple,200,200,50,Dataset
+38 no.jpg,Head,Skull,Simple,200,200,50,Dataset
+39 no.jpg,Head,Skull,Simple,200,200,50,Dataset
+4 no.jpg,Head,Skull,Simple,200,200,50,Dataset
+40 no.jpg,Head,Skull,Simple,200,200,50,Dataset
+41 no.jpg,Head,Skull,Simple,200,200,50,Dataset
+42 no.jpg,Head,Skull,Simple,200,200,50,Dataset
+43 no.jpg,Head,Skull,Simple,200,200,50,Dataset
+44no.jpg,Head,Skull,Simple,200,200,50,Dataset
+45 no.jpg,Head,Skull,Simple,200,200,50,Dataset
+46 no.jpg,Head,Skull,Simple,200,200,50,Dataset
+47 no.jpg,Head,Skull,Simple,200,200,50,Dataset
+48 no.jpeg,Head,Skull,Simple,200,200,50,Dataset
+49 no.jpg,Head,Skull,Simple,200,200,50,Dataset
+5 no.jpg,Head,Skull,Simple,200,200,50,Dataset
+50 no.jpg,Head,Skull,Simple,200,200,50,Dataset
+6 no.jpg,Head,Skull,Simple,200,200,50,Dataset
+7 no.jpg,Head,Skull,Simple,200,200,50,Dataset
+8 no.jpg,Head,Skull,Simple,200,200,50,Dataset
+9 no.jpg,Head,Skull,Simple,200,200,50,Dataset
+N1.JPG,Head,Skull,Simple,200,200,50,Dataset
+N11.jpg,Head,Skull,Simple,200,200,50,Dataset
+N2.JPG,Head,Skull,Simple,200,200,50,Dataset
+N3.jpg,Head,Skull,Simple,200,200,50,Dataset
+N5.jpg,Head,Skull,Simple,200,200,50,Dataset
+N6.jpg,Head,Skull,Simple,200,200,50,Dataset
+1.png,Shoulder,Clavicle,Simple,200,200,50,Dataset
+10.png,Shoulder,Clavicle,Simple,200,200,50,Dataset
+11.png,Shoulder,Clavicle,Simple,200,200,50,Dataset
+13.png,Shoulder,Clavicle,Simple,200,200,50,Dataset
+14.png,Shoulder,Clavicle,Simple,200,200,50,Dataset
+15.png,Shoulder,Clavicle,Simple,200,200,50,Dataset
+16.png,Shoulder,Clavicle,Simple,200,200,50,Dataset
+17.png,Shoulder,Clavicle,Simple,200,200,50,Dataset
+18.png,Shoulder,Clavicle,Simple,200,200,50,Dataset
+19.png,Shoulder,Clavicle,Simple,200,200,50,Dataset
+2.png,Shoulder,Clavicle,Simple,200,200,50,Dataset
+20.png,Shoulder,Clavicle,Simple,200,200,50,Dataset
+21.png,Shoulder,Clavicle,Simple,200,200,50,Dataset
+22.png,Shoulder,Clavicle,Simple,200,200,50,Dataset
+3.png,Shoulder,Clavicle,Simple,200,200,50,Dataset
+4.png,Shoulder,Clavicle,Simple,200,200,50,Dataset
+5.png,Shoulder,Clavicle,Simple,200,200,50,Dataset
+6.png,Shoulder,Clavicle,Simple,200,200,50,Dataset
+7.png,Shoulder,Clavicle,Simple,200,200,50,Dataset
+8.png,Shoulder,Clavicle,Simple,200,200,50,Dataset
+9.png,Shoulder,Clavicle,Simple,200,200,50,Dataset
+1.png,Wrist,Carpals,Simple,200,200,50,Dataset
+10.png,Wrist,Carpals,Simple,200,200,50,Dataset
+11.png,Wrist,Carpals,Simple,200,200,50,Dataset
+12.png,Wrist,Carpals,Simple,200,200,50,Dataset
+13.png,Wrist,Carpals,Simple,200,200,50,Dataset
+14.png,Wrist,Carpals,Simple,200,200,50,Dataset
+15.png,Wrist,Carpals,Simple,200,200,50,Dataset
+16.png,Wrist,Carpals,Simple,200,200,50,Dataset
+17.png,Wrist,Carpals,Simple,200,200,50,Dataset
+18.png,Wrist,Carpals,Simple,200,200,50,Dataset
+19.png,Wrist,Carpals,Simple,200,200,50,Dataset
+2.png,Wrist,Carpals,Simple,200,200,50,Dataset
+20.png,Wrist,Carpals,Simple,200,200,50,Dataset
+21.png,Wrist,Carpals,Simple,200,200,50,Dataset
+3.png,Wrist,Carpals,Simple,200,200,50,Dataset
+4.png,Wrist,Carpals,Simple,200,200,50,Dataset
+5.png,Wrist,Carpals,Simple,200,200,50,Dataset
+6.png,Wrist,Carpals,Simple,200,200,50,Dataset
+7.png,Wrist,Carpals,Simple,200,200,50,Dataset
+8.png,Wrist,Carpals,Simple,200,200,50,Dataset
+9.png,Wrist,Carpals,Simple,200,200,50,Dataset

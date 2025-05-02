@@ -1,0 +1,19 @@
+{
+  "initial_fracture": {
+    "category": "Chest",
+    "bones_present": [
+      "Ribs",
+      "Sternum"
+    ],
+    "fractured_bone": "Distal Radius",
+    "fracture_type": "Comminuted",
+    "fracture_coordinates": [
+      611,
+      393
+    ],
+    "severity": 80.0,
+    "timestamp": "2025-04-26 07:49:31",
+    "image_path": "/static/uploads/1745633970_rib-fracture-right.jpg",
+    "annotated_image_path": "/static/uploads/annotated_1745633970_rib-fracture-right.jpg"
+  }
+}

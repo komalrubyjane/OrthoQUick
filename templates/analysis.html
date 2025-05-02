@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Analysis - Bone Fracture Classification</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-9ndCyUaIbzAi2FUVXJi0CjmCapSmO7SnpJef0486qhLnuZ2cdeRhO02iuK6FUUVM" crossorigin="anonymous">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="/static/css/styles.css">
+    <style>
+        body {
+            font-family: 'Poppins', sans-serif;
+            background: #ffffff; /* Plain white background */
+        }
+        .navbar-brand img {
+            height: 40px;
+            width: auto;
+            max-width: 150px;
+            vertical-align: middle;
+        }
+        .navbar-brand img[src=""], 
+        .navbar-brand img:not([src]) {
+            width: 40px;
+            background-color: #e9ecef;
+        }
+        .navbar {
+            min-height: 60px;
+            padding-top: 0.5rem;
+            padding-bottom: 0.5rem;
+        }
+        .navbar-brand {
+            display: flex;
+            align-items: center;
+        }
+        @media (max-width: 576px) {
+            .navbar-brand img {
+                height: 30px;
+            }
+            .navbar {
+                min-height: 50px;
+            }
+        }
+        /* Fade-in animation for the analysis section */
+        .analysis-section {
+            opacity: 0;
+            animation: fadeIn 1s ease-in forwards;
+        }
+        @keyframes fadeIn {
+            from {
+                opacity: 0;
+                transform: translateY(20px);
+            }
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+        /* Hover effect for the Analyze button */
+        .btn-primary:hover {
+            transform: scale(1.05);
+            transition: transform 0.3s ease;
+        }
+    </style>
+</head>
+<body>
+    <!-- Navigation -->
+    <nav class="navbar navbar-expand-lg navbar-light bg-white">
+        <div class="container-fluid">
+            <a class="navbar-brand" href="/">
+                <img src="/static/uploads/logo.png" alt="Logo" class="me-2">Bone Fracture Classification
+            </a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarNav">
+                <ul class="navbar-nav ms-auto">
+                    <li class="nav-item">
+                        <a class="nav-link" href="/">Home</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="/analysis">Analysis</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="/history">History</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Analysis Section -->
+    <section class="py-5 analysis-section">
+        <div class="container text-center">
+            <h2 class="fw-bold text-dark mb-4">Upload X-ray for Analysis</h2>
+            <p class="lead text-muted mb-4">Upload an X-ray image to classify the bone and learn more about its structure.</p>
+
+            {% if not model_trained %}
+            <div class="alert alert-danger border-start border-danger border-4 text-danger p-4 mb-4" role="alert">
+                <p class="fw-bold">Model Not Loaded</p>
+                <p>The bone classifier model could not be loaded or trained. Please check the logs for details.</p>
+                <ul class="list-disc ps-5">
+                    {% for log in init_log %}
+                    <li>{{ log }}</li>
+                    {% endfor %}
+                </ul>
+                <button onclick="retrainModel()" class="mt-2 btn btn-danger">Retrain Model</button>
+            </div>
+            {% endif %}
+
+            <form id="uploadForm" enctype="multipart/form-data" class="mb-3">
+                <input type="file" class="form-control mb-2" id="imageUpload" name="image" accept="image/png, image/jpeg" required>
+                <button type="submit" class="btn btn-primary">Analyze</button>
+            </form>
+            <div id="result" class="mt-3 text-center text-dark"></div>
+
+            <div class="mt-5">
+                <h3 class="fw-bold text-dark mb-4">History</h3>
+                <div id="historyList" class="row row-cols-1 row-cols-md-2 row-cols-lg-3 g-4"></div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="bg-white text-center py-4 text-dark">
+        <p class="mb-0">{% if model_trained %}Ready{% else %}Initialization failed{% endif %}</p>
+        <p class="mt-2">© 2025 Bone Fracture Classification. All rights reserved.</p>
+    </footer>
+
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js" integrity="sha384-geWF76RCwLtnZ8qwWowPQNguL3RmwHVBC9FhGdlKrxdiJJigb/j/68SIy3Te4Bkz" crossorigin="anonymous"></script>
+    <script src="/static/js/scripts.js"></script>
+</body>
+</html>
